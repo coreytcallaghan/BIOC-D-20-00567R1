@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cambridge Springs_PA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Cambridge Springs, PA", "city_ascii": "Cambridge Springs", "state_name": "Pennsylvania", "county_fips": 42039, "county_name": "Crawford", "lat": 41.8018, "lng": -80.0597, "population": 2566.0, "population_proper": 2560, "density": 1133.0, "FID": 448, "UACE10": "12890", "AFFGEOID10": "400C100US12890", "GEOID10": "12890", "LSAD10": 76, "UATYP10": "C", "ALAND10": 2092690.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -80.07168, 41.79909 ], [ -80.067132, 41.800694 ], [ -80.066, 41.803477 ], [ -80.063543, 41.803602 ], [ -80.063841, 41.808169 ], [ -80.066159, 41.811021 ], [ -80.060316, 41.809677 ], [ -80.057746, 41.810208 ], [ -80.057917, 41.809106 ], [ -80.053529, 41.80768 ], [ -80.0504, 41.805336 ], [ -80.051538, 41.805054 ], [ -80.055993, 41.804751 ], [ -80.057018, 41.803742 ], [ -80.047924, 41.803866 ], [ -80.048396, 41.80014 ], [ -80.05579, 41.79517 ], [ -80.06634, 41.79547 ], [ -80.07174, 41.79487 ], [ -80.07168, 41.79909 ] ] ] ] } }
+]
+}

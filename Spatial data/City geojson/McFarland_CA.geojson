@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "McFarland_CA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "McFarland, CA", "city_ascii": "McFarland", "state_name": "California", "county_fips": 6029, "county_name": "Kern", "lat": 35.6781, "lng": -119.2414, "population": 14680.0, "population_proper": 14544, "density": 2104.0, "FID": 10, "UACE10": "52552", "AFFGEOID10": "400C100US52552", "GEOID10": "52552", "LSAD10": 76, "UATYP10": "C", "ALAND10": 9922670.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -119.240841, 35.68883 ], [ -119.23167, 35.688902 ], [ -119.228842, 35.68917 ], [ -119.226351, 35.688929 ], [ -119.204809, 35.689125 ], [ -119.204613, 35.660086 ], [ -119.223074, 35.659937 ], [ -119.224727, 35.667178 ], [ -119.224152, 35.663273 ], [ -119.240989, 35.663528 ], [ -119.240841, 35.68883 ] ] ] ] } }
+]
+}

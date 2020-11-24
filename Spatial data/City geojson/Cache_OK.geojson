@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cache_OK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Cache, OK", "city_ascii": "Cache", "state_name": "Oklahoma", "county_fips": 40031, "county_name": "Comanche", "lat": 34.6297, "lng": -98.6181, "population": 2652.0, "population_proper": 2853, "density": 313.0, "FID": 450, "UACE10": "12120", "AFFGEOID10": "400C100US12120", "GEOID10": "12120", "LSAD10": 76, "UATYP10": "C", "ALAND10": 3986913.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -98.650337, 34.630919 ], [ -98.632702, 34.630858 ], [ -98.632705, 34.637452 ], [ -98.635494, 34.638136 ], [ -98.632696, 34.638143 ], [ -98.63268, 34.640163 ], [ -98.62475, 34.639442 ], [ -98.615179, 34.636974 ], [ -98.615104, 34.628433 ], [ -98.615098, 34.625188 ], [ -98.620411, 34.625173 ], [ -98.620428, 34.623544 ], [ -98.650369, 34.623648 ], [ -98.650337, 34.630919 ] ] ] ] } }
+]
+}

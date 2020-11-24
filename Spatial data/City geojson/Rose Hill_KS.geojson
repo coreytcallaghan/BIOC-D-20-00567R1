@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rose Hill_KS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Rose Hill, KS", "city_ascii": "Rose Hill", "state_name": "Kansas", "county_fips": 20015, "county_name": "Butler", "lat": 37.5711, "lng": -97.1354, "population": 3728.0, "population_proper": 4015, "density": 704.0, "FID": 770, "UACE10": "76366", "AFFGEOID10": "400C100US76366", "GEOID10": "76366", "LSAD10": 76, "UATYP10": "C", "ALAND10": 2874328.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -97.141977, 37.570367 ], [ -97.139701, 37.570377 ], [ -97.139783, 37.577685 ], [ -97.135191, 37.577705 ], [ -97.135143, 37.585017 ], [ -97.130675, 37.584994 ], [ -97.130478, 37.56407 ], [ -97.131494, 37.563093 ], [ -97.121346, 37.563072 ], [ -97.121435, 37.555851 ], [ -97.136403, 37.555812 ], [ -97.137968, 37.555872 ], [ -97.135759, 37.559625 ], [ -97.136304, 37.563087 ], [ -97.141878, 37.563072 ], [ -97.141977, 37.570367 ] ] ] ] } }
+]
+}

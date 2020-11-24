@@ -1,0 +1,845 @@
+COMMON_NAME,SCIENTIFIC_NAME,order,family,TipLabel,Taxonomy,Clade,BLFamilyLatin,BLFamilyEnglish,FamSequID,Order,OscSubOsc
+American Goldfinch,Spinus tristis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_tristis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Black-throated Blue Warbler,Setophaga caerulescens,Passeriformes,Parulidae (New World Warblers),Dendroica_caerulescens,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Black-throated Green Warbler,Setophaga virens,Passeriformes,Parulidae (New World Warblers),Dendroica_virens,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Blue-winged Warbler,Vermivora cyanoptera,Passeriformes,Parulidae (New World Warblers),Vermivora_pinus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Carolina Chickadee,Poecile carolinensis,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_carolinensis,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Caspian Tern,Hydroprogne caspia,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_caspia,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Downy Woodpecker,Dryobates pubescens,Piciformes,Picidae (Woodpeckers),Picoides_pubescens,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Great Egret,Ardea alba,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Casmerodius_albus,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Hairy Woodpecker,Dryobates villosus,Piciformes,Picidae (Woodpeckers),Picoides_villosus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+House Finch,Haemorhous mexicanus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carpodacus_mexicanus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Laughing Gull,Leucophaeus atricilla,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_atricilla,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Magnolia Warbler,Setophaga magnolia,Passeriformes,Parulidae (New World Warblers),Dendroica_magnolia,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Northern Parula,Setophaga americana,Passeriformes,Parulidae (New World Warblers),Parula_americana,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Orange-crowned Warbler,Oreothlypis celata,Passeriformes,Parulidae (New World Warblers),Vermivora_celata,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Palm Warbler,Setophaga palmarum,Passeriformes,Parulidae (New World Warblers),Dendroica_palmarum,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Pine Siskin,Spinus pinus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_pinus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Pine Warbler,Setophaga pinus,Passeriformes,Parulidae (New World Warblers),Dendroica_pinus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Purple Finch,Haemorhous purpureus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carpodacus_purpureus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Royal Tern,Thalasseus maximus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_maxima,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Tennessee Warbler,Oreothlypis peregrina,Passeriformes,Parulidae (New World Warblers),Vermivora_peregrina,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Wilson's Warbler,Cardellina pusilla,Passeriformes,Parulidae (New World Warblers),Wilsonia_pusilla,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Yellow-rumped Warbler,Setophaga coronata,Passeriformes,Parulidae (New World Warblers),Dendroica_coronata,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Yellow Warbler,Setophaga petechia,Passeriformes,Parulidae (New World Warblers),Dendroica_petechia,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+American Tree Sparrow,Spizelloides arborea,Passeriformes,Passerellidae (New World Sparrows),Spizella_arborea,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+American Wigeon,Mareca americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_americana,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Bay-breasted Warbler,Setophaga castanea,Passeriformes,Parulidae (New World Warblers),Dendroica_castanea,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Black-capped Chickadee,Poecile atricapillus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_atricapillus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Blackburnian Warbler,Setophaga fusca,Passeriformes,Parulidae (New World Warblers),Dendroica_fusca,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Blackpoll Warbler,Setophaga striata,Passeriformes,Parulidae (New World Warblers),Dendroica_striata,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Blue-winged Teal,Spatula discors,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_discors,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Canada Warbler,Cardellina canadensis,Passeriformes,Parulidae (New World Warblers),Wilsonia_canadensis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Cape May Warbler,Setophaga tigrina,Passeriformes,Parulidae (New World Warblers),Dendroica_tigrina,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Chestnut-sided Warbler,Setophaga pensylvanica,Passeriformes,Parulidae (New World Warblers),Dendroica_pensylvanica,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Common Redpoll,Acanthis flammea,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_flammea,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Franklin's Gull,Leucophaeus pipixcan,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_pipixcan,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Gadwall,Mareca strepera,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_strepera,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Hoary Redpoll,Acanthis hornemanni,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_hornemanni,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Mourning Warbler,Geothlypis philadelphia,Passeriformes,Parulidae (New World Warblers),Oporornis_philadelphia,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Nashville Warbler,Oreothlypis ruficapilla,Passeriformes,Parulidae (New World Warblers),Vermivora_ruficapilla,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Northern Harrier,Circus hudsonius,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Circus_cyaneus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Northern Shoveler,Spatula clypeata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_clypeata,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Northern Waterthrush,Parkesia noveboracensis,Passeriformes,Parulidae (New World Warblers),Seiurus_noveboracensis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Ross's Goose,Anser rossii,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Chen_rossii,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Snow Goose,Anser caerulescens,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Chen_caerulescens,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Townsend's Warbler,Setophaga townsendi,Passeriformes,Parulidae (New World Warblers),Dendroica_townsendi,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Wilson's Phalarope,Phalaropus tricolor,Charadriiformes,Scolopacidae (Sandpipers and Allies),Steganopus_tricolor,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Winter Wren,Troglodytes hiemalis,Passeriformes,Troglodytidae (Wrens),Troglodytes_troglodytes,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Chestnut-backed Chickadee,Poecile rufescens,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_rufescens,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Eurasian Wigeon,Mareca penelope,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_penelope,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Varied Thrush,Ixoreus naevius,Passeriformes,Turdidae (Thrushes and Allies),Zoothera_naevia,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Bonaparte's Gull,Chroicocephalus philadelphia,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_philadelphia,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Canyon Towhee,Melozone fusca,Passeriformes,Passerellidae (New World Sparrows),Pipilo_fuscus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Cassin's Sparrow,Peucaea cassinii,Passeriformes,Passerellidae (New World Sparrows),Aimophila_cassinii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Cinnamon Teal,Spatula cyanoptera,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_cyanoptera,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Ladder-backed Woodpecker,Dryobates scalaris,Piciformes,Picidae (Woodpeckers),Picoides_scalaris,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Least Tern,Sternula antillarum,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_antillarum,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Lesser Goldfinch,Spinus psaltria,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_psaltria,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+MacGillivray's Warbler,Geothlypis tolmiei,Passeriformes,Parulidae (New World Warblers),Oporornis_tolmiei,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Sandhill Crane,Antigone canadensis,Gruiformes,Gruidae (Cranes),Grus_canadensis,BL3,Gruidae,Gruidae,Cranes,45,GRUIFORMES,NONPASSERIFORMES
+Willet,Tringa semipalmata,Charadriiformes,Scolopacidae (Sandpipers and Allies),Catoptrophorus_semipalmatus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Louisiana Waterthrush,Parkesia motacilla,Passeriformes,Parulidae (New World Warblers),Seiurus_motacilla,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Cerulean Warbler,Setophaga cerulea,Passeriformes,Parulidae (New World Warblers),Dendroica_cerulea,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Snowy Owl,Bubo scandiacus,Strigiformes,Strigidae (Owls),Bubo_scandiaca,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Yellow-throated Warbler,Setophaga dominica,Passeriformes,Parulidae (New World Warblers),Dendroica_dominica,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Hooded Warbler,Setophaga citrina,Passeriformes,Parulidae (New World Warblers),Wilsonia_citrina,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Black Scoter,Melanitta americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Melanitta_nigra,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Buff-breasted Sandpiper,Calidris subruficollis,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tryngites_subruficollis,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Henslow's Sparrow,Centronyx henslowii,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_henslowii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Kentucky Warbler,Geothlypis formosa,Passeriformes,Parulidae (New World Warblers),Oporornis_formosus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Little Gull,Hydrocoloeus minutus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_minutus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Nelson's Sparrow,Ammospiza nelsoni,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_nelsoni,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Prairie Warbler,Setophaga discolor,Passeriformes,Parulidae (New World Warblers),Dendroica_discolor,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+White-winged Scoter,Melanitta deglandi,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Melanitta_fusca,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Cassin's Finch,Haemorhous cassinii,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carpodacus_cassinii,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Mountain Chickadee,Poecile gambeli,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_gambeli,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Bachman's Sparrow,Peucaea aestivalis,Passeriformes,Passerellidae (New World Sparrows),Aimophila_aestivalis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Chuck-will's-widow,Antrostomus carolinensis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Caprimulgus_carolinensis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Calliope Hummingbird,Selasphorus calliope,Caprimulgiformes,Trochilidae (Hummingbirds),Stellula_calliope,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Hermit Warbler,Setophaga occidentalis,Passeriformes,Parulidae (New World Warblers),Dendroica_occidentalis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Ruff,Calidris pugnax,Charadriiformes,Scolopacidae (Sandpipers and Allies),Philomachus_pugnax,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Flammulated Owl,Psiloscops flammeolus,Strigiformes,Strigidae (Owls),Otus_flammeolus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Grace's Warbler,Setophaga graciae,Passeriformes,Parulidae (New World Warblers),Dendroica_graciae,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Lucy's Warbler,Oreothlypis luciae,Passeriformes,Parulidae (New World Warblers),Vermivora_luciae,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+McCown's Longspur,Rhynchophanes mccownii,Passeriformes,Calcariidae (Longspurs and Snow Buntings),Calcarius_mccownii,BL3,P11,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Virginia's Warbler,Oreothlypis virginiae,Passeriformes,Parulidae (New World Warblers),Vermivora_virginiae,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Red-cockaded Woodpecker,Dryobates borealis,Piciformes,Picidae (Woodpeckers),Picoides_borealis,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+White-tailed Hawk,Geranoaetus albicaudatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_albicaudatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Surfbird,Calidris virgata,Charadriiformes,Scolopacidae (Sandpipers and Allies),Aphriza_virgata,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Wandering Tattler,Tringa incana,Charadriiformes,Scolopacidae (Sandpipers and Allies),Heteroscelus_incanus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Kirtland's Warbler,Setophaga kirtlandii,Passeriformes,Parulidae (New World Warblers),Dendroica_kirtlandii,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+California Towhee,Melozone crissalis,Passeriformes,Passerellidae (New World Sparrows),Pipilo_crissalis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Elegant Tern,Thalasseus elegans,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_elegans,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Lawrence's Goldfinch,Spinus lawrencei,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_lawrencei,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Mitred Parakeet,Psittacara mitratus,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_mitrata,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Nuttall's Woodpecker,Dryobates nuttallii,Piciformes,Picidae (Woodpeckers),Picoides_nuttallii,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Clapper Rail,Rallus crepitans,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Rallus_longirostris,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Gull-billed Tern,Gelochelidon nilotica,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_nilotica,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Sandwich Tern,Thalasseus sandvicensis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_sandvicensis,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Seaside Sparrow,Ammospiza maritima,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_maritimus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Sooty Tern,Onychoprion fuscatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_fuscata,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Black-headed Gull,Chroicocephalus ridibundus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_ridibundus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Emperor Goose,Anser canagicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Chen_canagica,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Yellow-fronted Canary,Crithagra mozambica,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Serinus_mozambicus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Nanday Parakeet,Aratinga nenday,Psittaciformes,Psittacidae (New World and African Parrots),Nandayus_nenday,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Saltmarsh Sparrow,Ammospiza caudacuta,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_caudacutus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Boreal Chickadee,Poecile hudsonicus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_hudsonicus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Golden-cheeked Warbler,Setophaga chrysoparia,Passeriformes,Parulidae (New World Warblers),Dendroica_chrysoparia,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Green Parakeet,Psittacara holochlorus,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_holochlora,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Tropical Parula,Setophaga pitiayumi,Passeriformes,Parulidae (New World Warblers),Parula_pitiayumi,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Spotted Dove,Streptopelia chinensis,Columbiformes,Columbidae (Pigeons and Doves),Stigmatopelia_chinensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Spruce Grouse,Falcipennis canadensis,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Dendragapus_canadensis,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+White-headed Woodpecker,Dryobates albolarvatus,Piciformes,Picidae (Woodpeckers),Picoides_albolarvatus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Abert's Towhee,Melozone aberti,Passeriformes,Passerellidae (New World Sparrows),Pipilo_aberti,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Botteri's Sparrow,Peucaea botterii,Passeriformes,Passerellidae (New World Sparrows),Aimophila_botterii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Rufous-winged Sparrow,Peucaea carpalis,Passeriformes,Passerellidae (New World Sparrows),Aimophila_carpalis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Mexican Jay,Aphelocoma wollweberi,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Aphelocoma_ultramarina,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Red-masked Parakeet,Psittacara erythrogenys,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_erythrogenys,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Garganey,Spatula querquedula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_querquedula,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Blue-crowned Parakeet,Thectocercus acuticaudatus,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_acuticaudata,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Bridled Tern,Onychoprion anaethetus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_anaethetus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Baird's Sparrow,Centronyx bairdii,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_bairdii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Laughing Dove,Streptopelia senegalensis,Columbiformes,Columbidae (Pigeons and Doves),Stigmatopelia_senegalensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Aztec Thrush,Ridgwayia pinicola,Passeriformes,Turdidae (Thrushes and Allies),Zoothera_pinicola,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Roadside Hawk,Rupornis magnirostris,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_magnirostris,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Crimson-fronted Parakeet,Psittacara finschi,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_finschi,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Hottentot Teal,Spatula hottentota,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_hottentota,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Scarlet-fronted Parakeet,Psittacara wagleri,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_wagleri,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+White-eyed Parakeet,Psittacara leucophthalmus,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_leucophthalma,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Baikal Teal,Sibirionetta formosa,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_formosa,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Orange-fronted Parakeet,Eupsittula canicularis,Psittaciformes,Psittacidae (New World and African Parrots),Aratinga_canicularis,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+European Greenfinch,Chloris chloris,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_chloris,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Arizona Woodpecker,Dryobates arizonae,Piciformes,Picidae (Woodpeckers),Picoides_arizonae,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Sinaloa Wren,Thryophilus sinaloa,Passeriformes,Troglodytidae (Wrens),Thryothorus_sinaloa,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Lemon Dove,Columba larvata,Columbiformes,Columbidae (Pigeons and Doves),Aplopelia_larvata,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Black-bellied Whistling-Duck,Dendrocygna autumnalis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna_autumnalis,BL3,Dendrocygninae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Black-crowned Night-Heron,Nycticorax nycticorax,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Nycticorax_nycticorax,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Blue-gray Gnatcatcher,Polioptila caerulea,Passeriformes,Polioptilidae (Gnatcatchers),Polioptila_caerulea,BL3,M1,Polioptilidae,Gnatcatchers,172,PASSERIFORMES,Passeri
+Brown Creeper,Certhia americana,Passeriformes,Certhiidae (Treecreepers),Certhia_americana,BL3,M1,Certhiidae,Treecreepers,174,PASSERIFORMES,Passeri
+Eastern Screech-Owl,Megascops asio,Strigiformes,Strigidae (Owls),Megascops_asio,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Eastern Wood-Pewee,Contopus virens,Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus_virens,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Eurasian Collared-Dove,Streptopelia decaocto,Columbiformes,Columbidae (Pigeons and Doves),Streptopelia_decaocto,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+European Starling,Sturnus vulgaris,Passeriformes,Sturnidae (Starlings),Sturnus_vulgaris,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri
+Gray Catbird,Dumetella carolinensis,Passeriformes,Mimidae (Mockingbirds and Thrashers),Dumetella_carolinensis,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Tricolored Heron,Egretta tricolor,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Egretta_tricolor,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Yellow-crowned Night-Heron,Nyctanassa violacea,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Nyctanassa_violacea,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Bank Swallow,Riparia riparia,Passeriformes,Hirundinidae (Swallows),Riparia_riparia,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Clay-colored Sparrow,Spizella pallida,Passeriformes,Passerellidae (New World Sparrows),Spizella_pallida,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Eared Grebe,Podiceps nigricollis,Podicipediformes,Podicipedidae (Grebes),Podiceps_nigricollis,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Gray-cheeked Thrush,Catharus minimus,Passeriformes,Turdidae (Thrushes and Allies),Catharus_minimus,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Green-winged Teal,Anas crecca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_crecca,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Ring-necked Pheasant,Phasianus colchicus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Phasianus_colchicus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+California Scrub-Jay,Aphelocoma californica,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Aphelocoma_californica,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Northwestern Crow,Corvus caurinus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_caurinus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Mexican Violetear,Colibri thalassinus,Caprimulgiformes,Trochilidae (Hummingbirds),Colibri_thalassinus,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Swallow-tailed Kite,Elanoides forficatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Elanoides_forficatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+American Golden-Plover,Pluvialis dominica,Charadriiformes,Charadriidae (Plovers and Lapwings),Pluvialis_dominica,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Black-bellied Plover,Pluvialis squatarola,Charadriiformes,Charadriidae (Plovers and Lapwings),Pluvialis_squatarola,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Purple Gallinule,Porphyrio martinica,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Porphyrio_martinica,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Common Ground-Dove,Columbina passerina,Columbiformes,Columbidae (Pigeons and Doves),Columbina_passerina,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Western Wood-Pewee,Contopus sordidulus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus_sordidulus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Black Swift,Cypseloides niger,Caprimulgiformes,Apodidae (Swifts),Cypseloides_niger,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES
+Canada Jay,Perisoreus canadensis,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Perisoreus_canadensis,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Graylag Goose,Anser anser,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anser_anser,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Pacific Golden-Plover,Pluvialis fulva,Charadriiformes,Charadriidae (Plovers and Lapwings),Pluvialis_fulva,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Tricolored Blackbird,Agelaius tricolor,Passeriformes,Icteridae (Troupials and Allies),Agelaius_tricolor,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Western Screech-Owl,Megascops kennicottii,Strigiformes,Strigidae (Owls),Megascops_kennicottii,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Black Rosy-Finch,Leucosticte atrata,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Leucosticte_atrata,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Brant,Branta bernicla,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Branta_bernicla,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Brown-capped Rosy-Finch,Leucosticte australis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Leucosticte_australis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Common Black Hawk,Buteogallus anthracinus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteogallus_anthracinus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Dusky Flycatcher,Empidonax oberholseri,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_oberholseri,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Gray-crowned Rosy-Finch,Leucosticte tephrocotis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Leucosticte_tephrocotis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Gray Flycatcher,Empidonax wrightii,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_wrightii,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Gray Vireo,Vireo vicinior,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_vicinior,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Northern Pygmy-Owl,Glaucidium gnoma,Strigiformes,Strigidae (Owls),Glaucidium_gnoma,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Rivoli's Hummingbird,Eugenes fulgens,Caprimulgiformes,Trochilidae (Hummingbirds),Eugenes_fulgens,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Gray Partridge,Perdix perdix,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Perdix_perdix,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Fulvous Whistling-Duck,Dendrocygna bicolor,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna_bicolor,BL3,Dendrocygninae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Gray Kingbird,Tyrannus dominicensis,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_dominicensis,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Yellow-throated Woodland-Warbler,Phylloscopus ruficapilla,Passeriformes,Phylloscopidae (Leaf Warblers),Phylloscopus_ruficapilla,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri
+Northern Red Bishop,Euplectes franciscanus,Passeriformes,Ploceidae (Weavers and Allies),Euplectes_franciscanus,BL3,P6,Ploceidae,Weavers and allies,184,PASSERIFORMES,Passeri
+Lilac-crowned Parrot,Amazona finschi,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_finschi,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Red-flanked Bluetail,Tarsiger cyanurus,Passeriformes,Muscicapidae (Old World Flycatchers),Tarsiger_cyanurus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri
+Northern Beardless-Tyrannulet,Camptostoma imberbe,Passeriformes,Tyrannidae (Tyrant Flycatchers),Camptostoma_imberbe,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Florida Scrub-Jay,Aphelocoma coerulescens,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Aphelocoma_coerulescens,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Yellow-headed Parrot,Amazona oratrix,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_oratrix,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+African Collared-Dove,Streptopelia roseogrisea,Columbiformes,Columbidae (Pigeons and Doves),Streptopelia_roseogrisea,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Ruddy Ground-Dove,Columbina talpacoti,Columbiformes,Columbidae (Pigeons and Doves),Columbina_talpacoti,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Clay-colored Thrush,Turdus grayi,Passeriformes,Turdidae (Thrushes and Allies),Turdus_grayi,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Red-crowned Parrot,Amazona viridigenalis,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_viridigenalis,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Red-lored Parrot,Amazona autumnalis,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_autumnalis,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+White-fronted Parrot,Amazona albifrons,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_albifrons,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-crowned Parrot,Amazona ochrocephala,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_ochrocephala,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-lored Parrot,Amazona xantholora,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_xantholora,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Giant Wood-Rail,Aramides ypecaha,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Aramides_ypecaha,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Greater Sage-Grouse,Centrocercus urophasianus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Centrocercus_urophasianus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Common Scoter,Melanitta nigra,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Melanitta_nigra,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+LeConte's Thrasher,Toxostoma lecontei,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_lecontei,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+White-faced Whistling-Duck,Dendrocygna viduata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna_viduata,BL3,Dendrocygninae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Greater Prairie-Chicken,Tympanuchus cupido,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Tympanuchus_cupido,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Tricolored Munia,Lonchura malacca,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_malacca,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Common Ostrich,Struthio camelus,Struthioniformes,Struthionidae (Ostriches),Struthio_camelus,BL3,Paleognathae,Struthionidae,Ostriches,2,STRUTHIONIFORMES,NONPASSERIFORMES
+Common Hill Myna,Gracula religiosa,Passeriformes,Sturnidae (Starlings),Gracula_religiosa,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri
+Bare-throated Tiger-Heron,Tigrisoma mexicanum,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Tigrisoma_mexicanum,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Ferruginous Pygmy-Owl,Glaucidium brasilianum,Strigiformes,Strigidae (Owls),Glaucidium_brasilianum,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Gray-crowned Yellowthroat,Geothlypis poliocephala,Passeriformes,Parulidae (New World Warblers),Geothlypis_poliocephala,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Cuban Pewee,Contopus caribaeus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus_caribaeus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Great Black Hawk,Buteogallus urubitinga,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteogallus_urubitinga,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Key West Quail-Dove,Geotrygon chrysia,Columbiformes,Columbidae (Pigeons and Doves),Geotrygon_chrysia,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Lesser Whistling-Duck,Dendrocygna javanica,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna_javanica,BL3,Dendrocygninae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Mealy Parrot,Amazona farinosa,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_farinosa,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Orange-winged Parrot,Amazona amazonica,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_amazonica,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Plumed Whistling-Duck,Dendrocygna eytoni,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Dendrocygna_eytoni,BL3,Dendrocygninae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Ruddy Quail-Dove,Geotrygon montana,Columbiformes,Columbidae (Pigeons and Doves),Geotrygon_montana,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Turquoise-fronted Parrot,Amazona aestiva,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_aestiva,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-naped Parrot,Amazona auropalliata,Psittaciformes,Psittacidae (New World and African Parrots),Amazona_auropalliata,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Black-billed Cuckoo-Dove,Macropygia nigrirostris,Columbiformes,Columbidae (Pigeons and Doves),Macropygia_nigrirostris,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Red-browed Firetail,Neochmia temporalis,Passeriformes,Estrildidae (Waxbills and Allies),Neochmia_temporalis,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Lesser Sand-Plover,Charadrius mongolus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_mongolus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+European Turtle-Dove,Streptopelia turtur,Columbiformes,Columbidae (Pigeons and Doves),Streptopelia_turtur,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Flame-colored Tanager,Piranga bidentata,Passeriformes,Cardinalidae (Cardinals and Allies),Piranga_bidentata,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Papuan Boobook,Ninox theomacha,Strigiformes,Strigidae (Owls),Ninox_theomacha,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Black-throated Magpie-Jay,Calocitta colliei,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Calocitta_colliei,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Broad-tailed Paradise-Whydah,Vidua obtusa,Passeriformes,Viduidae (Indigobirds),Vidua_obtusa,BL3,P7,Viduidae,Indigobirds and allies,185,PASSERIFORMES,Passeri
+Cinnamon-rumped Seedeater,Sporophila torqueola,Passeriformes,Thraupidae (Tanagers and Allies),Sporophila_torqueola,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+White-throated Magpie-Jay,Calocitta formosa,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Calocitta_formosa,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Whiskered Screech-Owl,Megascops trichopsis,Strigiformes,Strigidae (Owls),Megascops_trichopsis,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Congo Peacock,Afropavo congensis,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Afropavo_congensis,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+American Coot,Fulica americana,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Fulica_americana,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+American Crow,Corvus brachyrhynchos,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_brachyrhynchos,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+American Kestrel,Falco sparverius,Falconiformes,Falconidae (Falcons and Caracaras),Falco_sparverius,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+American Pipit,Anthus rubescens,Passeriformes,Motacillidae (Wagtails and Pipits),Anthus_rubescens,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri
+American Redstart,Setophaga ruticilla,Passeriformes,Parulidae (New World Warblers),Setophaga_ruticilla,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+American Robin,Turdus migratorius,Passeriformes,Turdidae (Thrushes and Allies),Turdus_migratorius,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+American White Pelican,Pelecanus erythrorhynchos,Pelecaniformes,Pelecanidae (Pelicans),Pelecanus_erythrorhynchos,BL3,Pelecanidae,Pelecanidae,Pelicans,30,PELECANIFORMES,NONPASSERIFORMES
+Anhinga,Anhinga anhinga,Suliformes,Anhingidae (Anhingas),Anhinga_anhinga,BL3,Anhingidae,Anhingidae,Anhingas,33,SULIFORMES,NONPASSERIFORMES
+Bald Eagle,Haliaeetus leucocephalus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Haliaeetus_leucocephalus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Barn Swallow,Hirundo rustica,Passeriformes,Hirundinidae (Swallows),Hirundo_rustica,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Barred Owl,Strix varia,Strigiformes,Strigidae (Owls),Strix_varia,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Belted Kingfisher,Megaceryle alcyon,Coraciiformes,Alcedinidae (Kingfishers),Megaceryle_alcyon,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES
+Black-and-white Warbler,Mniotilta varia,Passeriformes,Parulidae (New World Warblers),Mniotilta_varia,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Black-chinned Hummingbird,Archilochus alexandri,Caprimulgiformes,Trochilidae (Hummingbirds),Archilochus_alexandri,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Black Vulture,Coragyps atratus,Cathartiformes,Cathartidae (New World Vultures),Coragyps_atratus,BL3,Cathartidae,Cathartidae,New World vultures,34,ACCIPITRIFORMES,NONPASSERIFORMES
+Blue-headed Vireo,Vireo solitarius,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_solitarius,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Blue Grosbeak,Passerina caerulea,Passeriformes,Cardinalidae (Cardinals and Allies),Passerina_caerulea,BL3,P12,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Blue Jay,Cyanocitta cristata,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocitta_cristata,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Boat-tailed Grackle,Quiscalus major,Passeriformes,Icteridae (Troupials and Allies),Quiscalus_major,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Brown-headed Cowbird,Molothrus ater,Passeriformes,Icteridae (Troupials and Allies),Molothrus_ater,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Brown Pelican,Pelecanus occidentalis,Pelecaniformes,Pelecanidae (Pelicans),Pelecanus_occidentalis,BL3,Pelecanidae,Pelecanidae,Pelicans,30,PELECANIFORMES,NONPASSERIFORMES
+Brown Thrasher,Toxostoma rufum,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_rufum,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Carolina Wren,Thryothorus ludovicianus,Passeriformes,Troglodytidae (Wrens),Thryothorus_ludovicianus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Cattle Egret,Bubulcus ibis,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Bubulcus_ibis,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Cedar Waxwing,Bombycilla cedrorum,Passeriformes,Bombycillidae (Waxwings),Bombycilla_cedrorum,BL3,M2,Bombycillidae,Waxwings,152,PASSERIFORMES,Passeri
+Chimney Swift,Chaetura pelagica,Caprimulgiformes,Apodidae (Swifts),Chaetura_pelagica,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES
+Chipping Sparrow,Spizella passerina,Passeriformes,Passerellidae (New World Sparrows),Spizella_passerina,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Common Grackle,Quiscalus quiscula,Passeriformes,Icteridae (Troupials and Allies),Quiscalus_quiscula,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Common Yellowthroat,Geothlypis trichas,Passeriformes,Parulidae (New World Warblers),Geothlypis_trichas,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Cooper's Hawk,Accipiter cooperii,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Accipiter_cooperii,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Dark-eyed Junco,Junco hyemalis,Passeriformes,Passerellidae (New World Sparrows),Junco_hyemalis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Double-crested Cormorant,Phalacrocorax auritus,Suliformes,Phalacrocoracidae (Cormorants and Shags),Phalacrocorax_auritus,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES
+Eastern Bluebird,Sialia sialis,Passeriformes,Turdidae (Thrushes and Allies),Sialia_sialis,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Eastern Kingbird,Tyrannus tyrannus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_tyrannus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Eastern Meadowlark,Sturnella magna,Passeriformes,Icteridae (Troupials and Allies),Sturnella_magna,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Eastern Phoebe,Sayornis phoebe,Passeriformes,Tyrannidae (Tyrant Flycatchers),Sayornis_phoebe,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Eastern Towhee,Pipilo erythrophthalmus,Passeriformes,Passerellidae (New World Sparrows),Pipilo_erythrophthalmus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Fish Crow,Corvus ossifragus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_ossifragus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Forster's Tern,Sterna forsteri,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_forsteri,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Golden-crowned Kinglet,Regulus satrapa,Passeriformes,Regulidae (Kinglets),Regulus_satrapa,BL3,Regulus,Reguliidae,Goldcrests and kinglets,166,PASSERIFORMES,Passeri
+Great-tailed Grackle,Quiscalus mexicanus,Passeriformes,Icteridae (Troupials and Allies),Quiscalus_mexicanus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Great Blue Heron,Ardea herodias,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Ardea_herodias,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Great Crested Flycatcher,Myiarchus crinitus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus_crinitus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Great Horned Owl,Bubo virginianus,Strigiformes,Strigidae (Owls),Bubo_virginianus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Greater White-fronted Goose,Anser albifrons,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anser_albifrons,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Green Heron,Butorides virescens,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Butorides_virescens,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Hermit Thrush,Catharus guttatus,Passeriformes,Turdidae (Thrushes and Allies),Catharus_guttatus,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Herring Gull,Larus argentatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_argentatus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+House Sparrow,Passer domesticus,Passeriformes,Passeridae (Old World Sparrows),Passer_domesticus,BL3,P8,Passeridae,"Sparrows, snowfinches and allies",183,PASSERIFORMES,Passeri
+House Wren,Troglodytes aedon,Passeriformes,Troglodytidae (Wrens),Troglodytes_aedon,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Inca Dove,Columbina inca,Columbiformes,Columbidae (Pigeons and Doves),Columbina_inca,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Indigo Bunting,Passerina cyanea,Passeriformes,Cardinalidae (Cardinals and Allies),Passerina_cyanea,BL3,P12,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Killdeer,Charadrius vociferus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_vociferus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Least Sandpiper,Calidris minutilla,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_minutilla,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Little Blue Heron,Egretta caerulea,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Egretta_caerulea,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Loggerhead Shrike,Lanius ludovicianus,Passeriformes,Laniidae (Shrikes),Lanius_ludovicianus,BL3,CC8,Laniidae,Shrikes,140,PASSERIFORMES,Passeri
+Mallard,Anas platyrhynchos,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_platyrhynchos,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Marsh Wren,Cistothorus palustris,Passeriformes,Troglodytidae (Wrens),Cistothorus_palustris,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Mississippi Kite,Ictinia mississippiensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Ictinia_mississippiensis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Mottled Duck,Anas fulvigula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_fulvigula,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Mourning Dove,Zenaida macroura,Columbiformes,Columbidae (Pigeons and Doves),Zenaida_macroura,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Neotropic Cormorant,Phalacrocorax brasilianus,Suliformes,Phalacrocoracidae (Cormorants and Shags),Phalacrocorax_brasilianus,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES
+Northern Cardinal,Cardinalis cardinalis,Passeriformes,Cardinalidae (Cardinals and Allies),Cardinalis_cardinalis,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Northern Flicker,Colaptes auratus,Piciformes,Picidae (Woodpeckers),Colaptes_auratus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Northern Mockingbird,Mimus polyglottos,Passeriformes,Mimidae (Mockingbirds and Thrashers),Mimus_polyglottos,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,Passeriformes,Hirundinidae (Swallows),Stelgidopteryx_serripennis,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Orchard Oriole,Icterus spurius,Passeriformes,Icteridae (Troupials and Allies),Icterus_spurius,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Osprey,Pandion haliaetus,Accipitriformes,Pandionidae (Osprey),Pandion_haliaetus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Painted Bunting,Passerina ciris,Passeriformes,Cardinalidae (Cardinals and Allies),Passerina_ciris,BL3,P12,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Pectoral Sandpiper,Calidris melanotos,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_melanotos,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Pied-billed Grebe,Podilymbus podiceps,Podicipediformes,Podicipedidae (Grebes),Podilymbus_podiceps,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Pileated Woodpecker,Dryocopus pileatus,Piciformes,Picidae (Woodpeckers),Dryocopus_pileatus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Purple Martin,Progne subis,Passeriformes,Hirundinidae (Swallows),Progne_subis,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Red-bellied Woodpecker,Melanerpes carolinus,Piciformes,Picidae (Woodpeckers),Melanerpes_carolinus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Red-breasted Nuthatch,Sitta canadensis,Passeriformes,Sittidae (Nuthatches),Sitta_canadensis,BL3,M1,Sittidae,Nuthatches and Wallcreeper,173,PASSERIFORMES,Passeri
+Red-eyed Vireo,Vireo olivaceus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_olivaceus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Red-shouldered Hawk,Buteo lineatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_lineatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Red-tailed Hawk,Buteo jamaicensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_jamaicensis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Red-winged Blackbird,Agelaius phoeniceus,Passeriformes,Icteridae (Troupials and Allies),Agelaius_phoeniceus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Redhead,Aythya americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_americana,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Ring-billed Gull,Larus delawarensis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_delawarensis,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Roseate Spoonbill,Platalea ajaja,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Platalea_ajaja,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES
+Ruby-crowned Kinglet,Regulus calendula,Passeriformes,Regulidae (Kinglets),Regulus_calendula,BL3,Regulus,Reguliidae,Goldcrests and kinglets,166,PASSERIFORMES,Passeri
+Ruby-throated Hummingbird,Archilochus colubris,Caprimulgiformes,Trochilidae (Hummingbirds),Archilochus_colubris,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Rufous Hummingbird,Selasphorus rufus,Caprimulgiformes,Trochilidae (Hummingbirds),Selasphorus_rufus,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Rusty Blackbird,Euphagus carolinus,Passeriformes,Icteridae (Troupials and Allies),Euphagus_carolinus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Savannah Sparrow,Passerculus sandwichensis,Passeriformes,Passerellidae (New World Sparrows),Passerculus_sandwichensis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Sedge Wren,Cistothorus platensis,Passeriformes,Troglodytidae (Wrens),Cistothorus_platensis,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Snowy Egret,Egretta thula,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Egretta_thula,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Song Sparrow,Melospiza melodia,Passeriformes,Passerellidae (New World Sparrows),Melospiza_melodia,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Spotted Sandpiper,Actitis macularius,Charadriiformes,Scolopacidae (Sandpipers and Allies),Actitis_macularius,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Summer Tanager,Piranga rubra,Passeriformes,Cardinalidae (Cardinals and Allies),Piranga_rubra,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Swamp Sparrow,Melospiza georgiana,Passeriformes,Passerellidae (New World Sparrows),Melospiza_georgiana,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Tree Swallow,Tachycineta bicolor,Passeriformes,Hirundinidae (Swallows),Tachycineta_bicolor,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Tufted Titmouse,Baeolophus bicolor,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Baeolophus_bicolor,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Turkey Vulture,Cathartes aura,Cathartiformes,Cathartidae (New World Vultures),Cathartes_aura,BL3,Cathartidae,Cathartidae,New World vultures,34,ACCIPITRIFORMES,NONPASSERIFORMES
+White-eyed Vireo,Vireo griseus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_griseus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+White-faced Ibis,Plegadis chihi,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Plegadis_chihi,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES
+White-throated Sparrow,Zonotrichia albicollis,Passeriformes,Passerellidae (New World Sparrows),Zonotrichia_albicollis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+White-winged Dove,Zenaida asiatica,Columbiformes,Columbidae (Pigeons and Doves),Zenaida_asiatica,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+White Ibis,Eudocimus albus,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Eudocimus_albus,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES
+Wood Duck,Aix sponsa,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aix_sponsa,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Wood Thrush,Hylocichla mustelina,Passeriformes,Turdidae (Thrushes and Allies),Hylocichla_mustelina,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Yellow-bellied Sapsucker,Sphyrapicus varius,Piciformes,Picidae (Woodpeckers),Sphyrapicus_varius,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Yellow-billed Cuckoo,Coccyzus americanus,Cuculiformes,Cuculidae (Cuckoos),Coccyzus_americanus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Acadian Flycatcher,Empidonax virescens,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_virescens,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Canada Goose,Branta canadensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Branta_canadensis,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Rock Pigeon,Columba livia,Columbiformes,Columbidae (Pigeons and Doves),Columba_livia,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+White-breasted Nuthatch,Sitta carolinensis,Passeriformes,Sittidae (Nuthatches),Sitta_carolinensis,BL3,M1,Sittidae,Nuthatches and Wallcreeper,173,PASSERIFORMES,Passeri
+Field Sparrow,Spizella pusilla,Passeriformes,Passerellidae (New World Sparrows),Spizella_pusilla,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Red-headed Woodpecker,Melanerpes erythrocephalus,Piciformes,Picidae (Woodpeckers),Melanerpes_erythrocephalus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Scarlet Tanager,Piranga olivacea,Passeriformes,Cardinalidae (Cardinals and Allies),Piranga_olivacea,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+White-crowned Sparrow,Zonotrichia leucophrys,Passeriformes,Passerellidae (New World Sparrows),Zonotrichia_leucophrys,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Baltimore Oriole,Icterus galbula,Passeriformes,Icteridae (Troupials and Allies),Icterus_galbula,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Black Tern,Chlidonias niger,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Chlidonias_niger,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Bobolink,Dolichonyx oryzivorus,Passeriformes,Icteridae (Troupials and Allies),Dolichonyx_oryzivorus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Bohemian Waxwing,Bombycilla garrulus,Passeriformes,Bombycillidae (Waxwings),Bombycilla_garrulus,BL3,M2,Bombycillidae,Waxwings,152,PASSERIFORMES,Passeri
+Broad-winged Hawk,Buteo platypterus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_platypterus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Bufflehead,Bucephala albeola,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Bucephala_albeola,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Cackling Goose,Branta hutchinsii,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Branta_hutchinsii,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+California Gull,Larus californicus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_californicus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Canvasback,Aythya valisineria,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_valisineria,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Cliff Swallow,Petrochelidon pyrrhonota,Passeriformes,Hirundinidae (Swallows),Petrochelidon_pyrrhonota,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Common Loon,Gavia immer,Gaviiformes,Gaviidae (Loons),Gavia_immer,BL3,Gaviidae,Gaviidae,Loons or divers,16,GAVIIFORMES,NONPASSERIFORMES
+Common Merganser,Mergus merganser,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Mergus_merganser,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Common Nighthawk,Chordeiles minor,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Chordeiles_minor,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Fox Sparrow,Passerella iliaca,Passeriformes,Passerellidae (New World Sparrows),Passerella_iliaca,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Golden-winged Warbler,Vermivora chrysoptera,Passeriformes,Parulidae (New World Warblers),Vermivora_chrysoptera,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Greater Scaup,Aythya marila,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_marila,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Greater Yellowlegs,Tringa melanoleuca,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_melanoleuca,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Harris's Sparrow,Zonotrichia querula,Passeriformes,Passerellidae (New World Sparrows),Zonotrichia_querula,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Hooded Merganser,Lophodytes cucullatus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Lophodytes_cucullatus,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Horned Grebe,Podiceps auritus,Podicipediformes,Podicipedidae (Grebes),Podiceps_auritus,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Horned Lark,Eremophila alpestris,Passeriformes,Alaudidae (Larks),Eremophila_alpestris,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri
+Lark Sparrow,Chondestes grammacus,Passeriformes,Passerellidae (New World Sparrows),Chondestes_grammacus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Least Flycatcher,Empidonax minimus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_minimus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Lesser Scaup,Aythya affinis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_affinis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Lesser Yellowlegs,Tringa flavipes,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_flavipes,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Lincoln's Sparrow,Melospiza lincolnii,Passeriformes,Passerellidae (New World Sparrows),Melospiza_lincolnii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Long-billed Dowitcher,Limnodromus scolopaceus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Limnodromus_scolopaceus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Northern Pintail,Anas acuta,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_acuta,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Olive-sided Flycatcher,Contopus cooperi,Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus_cooperi,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Ovenbird,Seiurus aurocapilla,Passeriformes,Parulidae (New World Warblers),Seiurus_aurocapilla,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Philadelphia Vireo,Vireo philadelphicus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_philadelphicus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Pine Grosbeak,Pinicola enucleator,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Pinicola_enucleator,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Red Crossbill,Loxia curvirostra,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Loxia_curvirostra,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Ring-necked Duck,Aythya collaris,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_collaris,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Rose-breasted Grosbeak,Pheucticus ludovicianus,Passeriformes,Cardinalidae (Cardinals and Allies),Pheucticus_ludovicianus,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Ruddy Duck,Oxyura jamaicensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Oxyura_jamaicensis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Semipalmated Sandpiper,Calidris pusilla,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_pusilla,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Sharp-shinned Hawk,Accipiter striatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Accipiter_striatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Snow Bunting,Plectrophenax nivalis,Passeriformes,Calcariidae (Longspurs and Snow Buntings),Plectrophenax_nivalis,BL3,P11,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Solitary Sandpiper,Tringa solitaria,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_solitaria,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Sora,Porzana carolina,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Porzana_carolina,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Spotted Towhee,Pipilo maculatus,Passeriformes,Passerellidae (New World Sparrows),Pipilo_maculatus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Swainson's Hawk,Buteo swainsoni,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_swainsoni,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Swainson's Thrush,Catharus ustulatus,Passeriformes,Turdidae (Thrushes and Allies),Catharus_ustulatus,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Townsend's Solitaire,Myadestes townsendi,Passeriformes,Turdidae (Thrushes and Allies),Myadestes_townsendi,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Vesper Sparrow,Pooecetes gramineus,Passeriformes,Passerellidae (New World Sparrows),Pooecetes_gramineus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Virginia Rail,Rallus limicola,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Rallus_limicola,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Warbling Vireo,Vireo gilvus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_gilvus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Western Grebe,Aechmophorus occidentalis,Podicipediformes,Podicipedidae (Grebes),Aechmophorus_occidentalis,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Western Kingbird,Tyrannus verticalis,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_verticalis,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Western Meadowlark,Sturnella neglecta,Passeriformes,Icteridae (Troupials and Allies),Sturnella_neglecta,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+White-winged Crossbill,Loxia leucoptera,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Loxia_leucoptera,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Willow Flycatcher,Empidonax traillii,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_traillii,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Yellow-bellied Flycatcher,Empidonax flaviventris,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_flaviventris,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Yellow-breasted Chat,Icteria virens,Passeriformes,Icteriidae (Yellow-breasted Chat),Icteria_virens,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Passeriformes,Icteridae (Troupials and Allies),Xanthocephalus_xanthocephalus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Anna's Hummingbird,Calypte anna,Caprimulgiformes,Trochilidae (Hummingbirds),Calypte_anna,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Band-tailed Pigeon,Patagioenas fasciata,Columbiformes,Columbidae (Pigeons and Doves),Patagioenas_fasciata,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Barn Owl,Tyto alba,Strigiformes,Tytonidae (Barn-Owls),Tyto_alba,BL3,Tytonidae,Tytonidae,Barn owls,70,STRIGIFORMES,NONPASSERIFORMES
+Bewick's Wren,Thryomanes bewickii,Passeriformes,Troglodytidae (Wrens),Thryomanes_bewickii,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Black-headed Grosbeak,Pheucticus melanocephalus,Passeriformes,Cardinalidae (Cardinals and Allies),Pheucticus_melanocephalus,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Brandt's Cormorant,Phalacrocorax penicillatus,Suliformes,Phalacrocoracidae (Cormorants and Shags),Phalacrocorax_penicillatus,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES
+Brewer's Blackbird,Euphagus cyanocephalus,Passeriformes,Icteridae (Troupials and Allies),Euphagus_cyanocephalus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Bushtit,Psaltriparus minimus,Passeriformes,Aegithalidae (Long-tailed Tits),Psaltriparus_minimus,BL3,S7S8,Aegithalidae,Long-tailed Tits,157,PASSERIFORMES,Passeri
+Cassin's Vireo,Vireo cassinii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_cassinii,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Clark's Grebe,Aechmophorus clarkii,Podicipediformes,Podicipedidae (Grebes),Aechmophorus_clarkii,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Common Goldeneye,Bucephala clangula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Bucephala_clangula,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Common Raven,Corvus corax,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_corax,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Dunlin,Calidris alpina,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_alpina,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Evening Grosbeak,Coccothraustes vespertinus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Coccothraustes_vespertinus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Glaucous-winged Gull,Larus glaucescens,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_glaucescens,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Golden-crowned Sparrow,Zonotrichia atricapilla,Passeriformes,Passerellidae (New World Sparrows),Zonotrichia_atricapilla,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Heermann's Gull,Larus heermanni,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_heermanni,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Hooded Oriole,Icterus cucullatus,Passeriformes,Icteridae (Troupials and Allies),Icterus_cucullatus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Hutton's Vireo,Vireo huttoni,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_huttoni,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Iceland Gull,Larus glaucoides,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_glaucoides,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Marbled Godwit,Limosa fedoa,Charadriiformes,Scolopacidae (Sandpipers and Allies),Limosa_fedoa,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Merlin,Falco columbarius,Falconiformes,Falconidae (Falcons and Caracaras),Falco_columbarius,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Mew Gull,Larus canus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_canus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Pacific-slope Flycatcher,Empidonax difficilis,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_difficilis,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Pelagic Cormorant,Phalacrocorax pelagicus,Suliformes,Phalacrocoracidae (Cormorants and Shags),Phalacrocorax_pelagicus,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES
+Peregrine Falcon,Falco peregrinus,Falconiformes,Falconidae (Falcons and Caracaras),Falco_peregrinus,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Red-breasted Merganser,Mergus serrator,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Mergus_serrator,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Red-breasted Sapsucker,Sphyrapicus ruber,Piciformes,Picidae (Woodpeckers),Sphyrapicus_ruber,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Red-necked Phalarope,Phalaropus lobatus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Phalaropus_lobatus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Red-throated Loon,Gavia stellata,Gaviiformes,Gaviidae (Loons),Gavia_stellata,BL3,Gaviidae,Gaviidae,Loons or divers,16,GAVIIFORMES,NONPASSERIFORMES
+Rough-legged Hawk,Buteo lagopus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_lagopus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Ruffed Grouse,Bonasa umbellus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Bonasa_umbellus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Steller's Jay,Cyanocitta stelleri,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocitta_stelleri,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Surf Scoter,Melanitta perspicillata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Melanitta_perspicillata,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Vaux's Swift,Chaetura vauxi,Caprimulgiformes,Apodidae (Swifts),Chaetura_vauxi,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES
+Violet-green Swallow,Tachycineta thalassina,Passeriformes,Hirundinidae (Swallows),Tachycineta_thalassina,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Western Gull,Larus occidentalis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_occidentalis,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Western Sandpiper,Calidris mauri,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_mauri,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Western Tanager,Piranga ludoviciana,Passeriformes,Cardinalidae (Cardinals and Allies),Piranga_ludoviciana,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Whimbrel,Numenius phaeopus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Numenius_phaeopus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Black-necked Stilt,Himantopus mexicanus,Charadriiformes,Recurvirostridae (Stilts and Avocets),Himantopus_mexicanus,BL3,Charadrii,Recurvirostridae,Stilts and avocets,53,CHARADRIIFORMES,NONPASSERIFORMES
+Cave Swallow,Petrochelidon fulva,Passeriformes,Hirundinidae (Swallows),Petrochelidon_fulva,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Northern Bobwhite,Colinus virginianus,Galliformes,Odontophoridae (New World Quail),Colinus_virginianus,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+Pyrrhuloxia,Cardinalis sinuatus,Passeriformes,Cardinalidae (Cardinals and Allies),Cardinalis_sinuatus,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Wild Turkey,Meleagris gallopavo,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Meleagris_gallopavo,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+American Avocet,Recurvirostra americana,Charadriiformes,Recurvirostridae (Stilts and Avocets),Recurvirostra_americana,BL3,Charadrii,Recurvirostridae,Stilts and avocets,53,CHARADRIIFORMES,NONPASSERIFORMES
+Ash-throated Flycatcher,Myiarchus cinerascens,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus_cinerascens,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Baird's Sandpiper,Calidris bairdii,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_bairdii,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Bell's Vireo,Vireo bellii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_bellii,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Black-crested Titmouse,Baeolophus atricristatus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Baeolophus_atricristatus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Black-throated Sparrow,Amphispiza bilineata,Passeriformes,Passerellidae (New World Sparrows),Amphispiza_bilineata,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Bronzed Cowbird,Molothrus aeneus,Passeriformes,Icteridae (Troupials and Allies),Molothrus_aeneus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Bullock's Oriole,Icterus bullockii,Passeriformes,Icteridae (Troupials and Allies),Icterus_bullockii,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Burrowing Owl,Athene cunicularia,Strigiformes,Strigidae (Owls),Athene_cunicularia,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Cactus Wren,Campylorhynchus brunneicapillus,Passeriformes,Troglodytidae (Wrens),Campylorhynchus_brunneicapillus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Chihuahuan Raven,Corvus cryptoleucus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_cryptoleucus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Common Tern,Sterna hirundo,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_hirundo,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Couch's Kingbird,Tyrannus couchii,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_couchii,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Curve-billed Thrasher,Toxostoma curvirostre,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_curvirostre,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Dickcissel,Spiza americana,Passeriformes,Cardinalidae (Cardinals and Allies),Spiza_americana,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Ferruginous Hawk,Buteo regalis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_regalis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Golden-fronted Woodpecker,Melanerpes aurifrons,Piciformes,Picidae (Woodpeckers),Melanerpes_aurifrons,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Grasshopper Sparrow,Ammodramus savannarum,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_savannarum,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Greater Roadrunner,Geococcyx californianus,Cuculiformes,Cuculidae (Cuckoos),Geococcyx_californianus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Harris's Hawk,Parabuteo unicinctus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Parabuteo_unicinctus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Hudsonian Godwit,Limosa haemastica,Charadriiformes,Scolopacidae (Sandpipers and Allies),Limosa_haemastica,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Lark Bunting,Calamospiza melanocorys,Passeriformes,Passerellidae (New World Sparrows),Calamospiza_melanocorys,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Least Bittern,Ixobrychus exilis,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Ixobrychus_exilis,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Mountain Bluebird,Sialia currucoides,Passeriformes,Turdidae (Thrushes and Allies),Sialia_currucoides,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Rufous-crowned Sparrow,Aimophila ruficeps,Passeriformes,Passerellidae (New World Sparrows),Aimophila_ruficeps,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Sanderling,Calidris alba,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_alba,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Say's Phoebe,Sayornis saya,Passeriformes,Tyrannidae (Tyrant Flycatchers),Sayornis_saya,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Scissor-tailed Flycatcher,Tyrannus forficatus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_forficatus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Semipalmated Plover,Charadrius semipalmatus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_semipalmatus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Sprague's Pipit,Anthus spragueii,Passeriformes,Motacillidae (Wagtails and Pipits),Anthus_spragueii,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri
+Stilt Sandpiper,Calidris himantopus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_himantopus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Upland Sandpiper,Bartramia longicauda,Charadriiformes,Scolopacidae (Sandpipers and Allies),Bartramia_longicauda,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Verdin,Auriparus flaviceps,Passeriformes,Remizidae (Penduline-Tits),Auriparus_flaviceps,BL3,S2,Remizidae,Penduline-tits,155,PASSERIFORMES,Passeri
+Vermilion Flycatcher,Pyrocephalus rubinus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Pyrocephalus_rubinus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Western Bluebird,Sialia mexicana,Passeriformes,Turdidae (Thrushes and Allies),Sialia_mexicana,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+White-rumped Sandpiper,Calidris fuscicollis,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_fuscicollis,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Glaucous Gull,Larus hyperboreus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_hyperboreus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Alder Flycatcher,Empidonax alnorum,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_alnorum,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+American Black Duck,Anas rubripes,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_rubripes,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+American Woodcock,Scolopax minor,Charadriiformes,Scolopacidae (Sandpipers and Allies),Scolopax_minor,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Black-billed Cuckoo,Coccyzus erythropthalmus,Cuculiformes,Cuculidae (Cuckoos),Coccyzus_erythropthalmus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Mute Swan,Cygnus olor,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_olor,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Northern Saw-whet Owl,Aegolius acadicus,Strigiformes,Strigidae (Owls),Aegolius_acadicus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Prothonotary Warbler,Protonotaria citrea,Passeriformes,Parulidae (New World Warblers),Protonotaria_citrea,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Trumpeter Swan,Cygnus buccinator,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_buccinator,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Tundra Swan,Cygnus columbianus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_columbianus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Veery,Catharus fuscescens,Passeriformes,Turdidae (Thrushes and Allies),Catharus_fuscescens,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Yellow-throated Vireo,Vireo flavifrons,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_flavifrons,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+American Bittern,Botaurus lentiginosus,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Botaurus_lentiginosus,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Black Swan,Cygnus atratus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_atratus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Brambling,Fringilla montifringilla,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Fringilla_montifringilla,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Chukar,Alectoris chukar,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Alectoris_chukar,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Connecticut Warbler,Oporornis agilis,Passeriformes,Parulidae (New World Warblers),Oporornis_agilis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Golden Eagle,Aquila chrysaetos,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Aquila_chrysaetos,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Great Black-backed Gull,Larus marinus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_marinus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Kelp Gull,Larus dominicanus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_dominicanus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Lapland Longspur,Calcarius lapponicus,Passeriformes,Calcariidae (Longspurs and Snow Buntings),Calcarius_lapponicus,BL3,P11,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Lesser Black-backed Gull,Larus fuscus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_fuscus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Long-eared Owl,Asio otus,Strigiformes,Strigidae (Owls),Asio_otus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Long-tailed Duck,Clangula hyemalis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Clangula_hyemalis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Muscovy Duck,Cairina moschata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cairina_moschata,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Red-necked Grebe,Podiceps grisegena,Podicipediformes,Podicipedidae (Grebes),Podiceps_grisegena,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Short-billed Dowitcher,Limnodromus griseus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Limnodromus_griseus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Short-eared Owl,Asio flammeus,Strigiformes,Strigidae (Owls),Asio_flammeus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Worm-eating Warbler,Helmitheros vermivorum,Passeriformes,Parulidae (New World Warblers),Helmitheros_vermivorum,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Wood Stork,Mycteria americana,Ciconiiformes,Ciconiidae (Storks),Mycteria_americana,BL3,Ciconiidae,Ciconiidae,Storks,23,CICONIIFORMES,NONPASSERIFORMES
+Black-tailed Gnatcatcher,Polioptila melanura,Passeriformes,Polioptilidae (Gnatcatchers),Polioptila_melanura,BL3,M1,Polioptilidae,Gnatcatchers,172,PASSERIFORMES,Passeri
+Black Phoebe,Sayornis nigricans,Passeriformes,Tyrannidae (Tyrant Flycatchers),Sayornis_nigricans,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Brewer's Sparrow,Spizella breweri,Passeriformes,Passerellidae (New World Sparrows),Spizella_breweri,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Broad-tailed Hummingbird,Selasphorus platycercus,Caprimulgiformes,Trochilidae (Hummingbirds),Selasphorus_platycercus,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Canyon Wren,Catherpes mexicanus,Passeriformes,Troglodytidae (Wrens),Catherpes_mexicanus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Crissal Thrasher,Toxostoma crissale,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_crissale,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Gambel's Quail,Callipepla gambelii,Galliformes,Odontophoridae (New World Quail),Callipepla_gambelii,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+Green-tailed Towhee,Pipilo chlorurus,Passeriformes,Passerellidae (New World Sparrows),Pipilo_chlorurus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Lesser Nighthawk,Chordeiles acutipennis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Chordeiles_acutipennis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Lewis's Woodpecker,Melanerpes lewis,Piciformes,Picidae (Woodpeckers),Melanerpes_lewis,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Phainopepla,Phainopepla nitens,Passeriformes,Ptiliogonatidae (Silky-flycatchers),Phainopepla_nitens,BL3,M2,Bombycillidae,Waxwings,152,PASSERIFORMES,Passeri
+Red-naped Sapsucker,Sphyrapicus nuchalis,Piciformes,Picidae (Woodpeckers),Sphyrapicus_nuchalis,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Rock Wren,Salpinctes obsoletus,Passeriformes,Troglodytidae (Wrens),Salpinctes_obsoletus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Scaled Quail,Callipepla squamata,Galliformes,Odontophoridae (New World Quail),Callipepla_squamata,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+Scott's Oriole,Icterus parisorum,Passeriformes,Icteridae (Troupials and Allies),Icterus_parisorum,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+White-throated Swift,Aeronautes saxatalis,Caprimulgiformes,Apodidae (Swifts),Aeronautes_saxatalis,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES
+Black-billed Magpie,Pica hudsonia,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Pica_hudsonia,IOC27,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Lazuli Bunting,Passerina amoena,Passeriformes,Cardinalidae (Cardinals and Allies),Passerina_amoena,BL3,P12,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Prairie Falcon,Falco mexicanus,Falconiformes,Falconidae (Falcons and Caracaras),Falco_mexicanus,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Brown-headed Nuthatch,Sitta pusilla,Passeriformes,Sittidae (Nuthatches),Sitta_pusilla,BL3,M1,Sittidae,Nuthatches and Wallcreeper,173,PASSERIFORMES,Passeri
+Glossy Ibis,Plegadis falcinellus,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Plegadis_falcinellus,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES
+Limpkin,Aramus guarauna,Gruiformes,Aramidae (Limpkin),Aramus_guarauna,BL3,Skeleton,Aramidae,Limpkin,46,GRUIFORMES,NONPASSERIFORMES
+Monk Parakeet,Myiopsitta monachus,Psittaciformes,Psittacidae (New World and African Parrots),Myiopsitta_monachus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Swainson's Warbler,Limnothlypis swainsonii,Passeriformes,Parulidae (New World Warblers),Limnothlypis_swainsonii,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Ruddy Turnstone,Arenaria interpres,Charadriiformes,Scolopacidae (Sandpipers and Allies),Arenaria_interpres,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Acorn Woodpecker,Melanerpes formicivorus,Piciformes,Picidae (Woodpeckers),Melanerpes_formicivorus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+California Quail,Callipepla californica,Galliformes,Odontophoridae (New World Quail),Callipepla_californica,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+Chestnut-collared Longspur,Calcarius ornatus,Passeriformes,Calcariidae (Longspurs and Snow Buntings),Calcarius_ornatus,BL3,P11,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Hammond's Flycatcher,Empidonax hammondii,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_hammondii,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Long-billed Curlew,Numenius americanus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Numenius_americanus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Northern Goshawk,Accipiter gentilis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Accipiter_gentilis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Red Phalarope,Phalaropus fulicarius,Charadriiformes,Scolopacidae (Sandpipers and Allies),Phalaropus_fulicarius,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Wrentit,Chamaea fasciata,Passeriformes,"Paradoxornithidae (Parrotbills, Wrentit, and Allies)",Chamaea_fasciata,BL3,S12,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri
+Pacific Loon,Gavia pacifica,Gaviiformes,Gaviidae (Loons),Gavia_pacifica,BL3,Gaviidae,Gaviidae,Loons or divers,16,GAVIIFORMES,NONPASSERIFORMES
+American Dipper,Cinclus mexicanus,Passeriformes,Cinclidae (Dippers),Cinclus_mexicanus,BL3,M3,Cinclidae,Dippers,179,PASSERIFORMES,Passeri
+American Three-toed Woodpecker,Picoides dorsalis,Piciformes,Picidae (Woodpeckers),Picoides_dorsalis,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Barrow's Goldeneye,Bucephala islandica,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Bucephala_islandica,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Black-chinned Sparrow,Spizella atrogularis,Passeriformes,Passerellidae (New World Sparrows),Spizella_atrogularis,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Budgerigar,Melopsittacus undulatus,Psittaciformes,Psittaculidae (Old World Parrots),Melopsittacus_undulatus,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Cassin's Kingbird,Tyrannus vociferans,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_vociferans,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Clark's Nutcracker,Nucifraga columbiana,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Nucifraga_columbiana,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Common Poorwill,Phalaenoptilus nuttallii,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Phalaenoptilus_nuttallii,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Cordilleran Flycatcher,Empidonax occidentalis,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_occidentalis,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Greater Pewee,Contopus pertinax,Passeriformes,Tyrannidae (Tyrant Flycatchers),Contopus_pertinax,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Helmeted Guineafowl,Numida meleagris,Galliformes,Numididae (Guineafowl),Numida_meleagris,BL3,Numididae,Numididae,Guineafowl,9,GALLIFORMES,NONPASSERIFORMES
+Hepatic Tanager,Piranga flava,Passeriformes,Cardinalidae (Cardinals and Allies),Piranga_flava,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Indian Peafowl,Pavo cristatus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Pavo_cristatus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Juniper Titmouse,Baeolophus ridgwayi,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Baeolophus_ridgwayi,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Painted Redstart,Myioborus pictus,Passeriformes,Parulidae (New World Warblers),Myioborus_pictus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Pinyon Jay,Gymnorhinus cyanocephalus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Gymnorhinus_cyanocephalus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Plumbeous Vireo,Vireo plumbeus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_plumbeus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Pygmy Nuthatch,Sitta pygmaea,Passeriformes,Sittidae (Nuthatches),Sitta_pygmaea,BL3,M1,Sittidae,Nuthatches and Wallcreeper,173,PASSERIFORMES,Passeri
+Rosy-faced Lovebird,Agapornis roseicollis,Psittaciformes,Psittaculidae (Old World Parrots),Agapornis_roseicollis,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Sabine's Gull,Xema sabini,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Xema_sabini,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Sage Thrasher,Oreoscoptes montanus,Passeriformes,Mimidae (Mockingbirds and Thrashers),Oreoscoptes_montanus,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Swan Goose,Anser cygnoides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anser_cygnoides,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+White-tailed Kite,Elanus leucurus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Elanus_leucurus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Williamson's Sapsucker,Sphyrapicus thyroideus,Piciformes,Picidae (Woodpeckers),Sphyrapicus_thyroideus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Zone-tailed Hawk,Buteo albonotatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_albonotatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Eurasian Tree Sparrow,Passer montanus,Passeriformes,Passeridae (Old World Sparrows),Passer_montanus,BL3,P8,Passeridae,"Sparrows, snowfinches and allies",183,PASSERIFORMES,Passeri
+King Rail,Rallus elegans,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Rallus_elegans,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Harlequin Duck,Histrionicus histrionicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Histrionicus_histrionicus,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Brown-crested Flycatcher,Myiarchus tyrannulus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus_tyrannulus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Crested Caracara,Caracara cheriway,Falconiformes,Falconidae (Falcons and Caracaras),Caracara_cheriway,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Great Kiskadee,Pitangus sulphuratus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Pitangus_sulphuratus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Green Jay,Cyanocorax yncas,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Cyanocorax_yncas,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Red Knot,Calidris canutus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_canutus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Allen's Hummingbird,Selasphorus sasin,Caprimulgiformes,Trochilidae (Hummingbirds),Selasphorus_sasin,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Broad-billed Hummingbird,Cynanthus latirostris,Caprimulgiformes,Trochilidae (Hummingbirds),Cynanthus_latirostris,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Costa's Hummingbird,Calypte costae,Caprimulgiformes,Trochilidae (Hummingbirds),Calypte_costae,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Lucifer Hummingbird,Calothorax lucifer,Caprimulgiformes,Trochilidae (Hummingbirds),Calothorax_lucifer,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Mountain Plover,Charadrius montanus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_montanus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Black-legged Kittiwake,Rissa tridactyla,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Rissa_tridactyla,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Black Oystercatcher,Haematopus bachmani,Charadriiformes,Haematopodidae (Oystercatchers),Haematopus_bachmani,BL3,Charadrii,Haematopodidae,Oystercatchers,50,CHARADRIIFORMES,NONPASSERIFORMES
+Black Turnstone,Arenaria melanocephala,Charadriiformes,Scolopacidae (Sandpipers and Allies),Arenaria_melanocephala,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+King Eider,Somateria spectabilis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Somateria_spectabilis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Rock Sandpiper,Calidris ptilocnemis,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_ptilocnemis,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Yellow-billed Loon,Gavia adamsii,Gaviiformes,Gaviidae (Loons),Gavia_adamsii,BL3,Gaviidae,Gaviidae,Loons or divers,16,GAVIIFORMES,NONPASSERIFORMES
+Least Grebe,Tachybaptus dominicus,Podicipediformes,Podicipedidae (Grebes),Tachybaptus_dominicus,BL3,Podicipedidae,Podicipedidae,Grebes,21,PODICIPEDIFORMES,NONPASSERIFORMES
+Mandarin Duck,Aix galericulata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aix_galericulata,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Slaty-backed Gull,Larus schistisagus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_schistisagus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Spotted Redshank,Tringa erythropus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_erythropus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Black Rail,Laterallus jamaicensis,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Laterallus_jamaicensis,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+California Thrasher,Toxostoma redivivum,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_redivivum,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Oak Titmouse,Baeolophus inornatus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Baeolophus_inornatus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Pin-tailed Whydah,Vidua macroura,Passeriformes,Viduidae (Indigobirds),Vidua_macroura,BL3,P7,Viduidae,Indigobirds and allies,185,PASSERIFORMES,Passeri
+Rose-ringed Parakeet,Psittacula krameri,Psittaciformes,Psittaculidae (Old World Parrots),Psittacula_krameri,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Tufted Duck,Aythya fuligula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_fuligula,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Yellow-billed Magpie,Pica nuttalli,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Pica_nuttalli,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Zebra Finch,Taeniopygia guttata,Passeriformes,Estrildidae (Waxbills and Allies),Taeniopygia_guttata,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+American Oystercatcher,Haematopus palliatus,Charadriiformes,Haematopodidae (Oystercatchers),Haematopus_palliatus,BL3,Charadrii,Haematopodidae,Oystercatchers,50,CHARADRIIFORMES,NONPASSERIFORMES
+Black Skimmer,Rynchops niger,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Rynchops_niger,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Buff-bellied Hummingbird,Amazilia yucatanensis,Caprimulgiformes,Trochilidae (Hummingbirds),Amazilia_yucatanensis,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Reddish Egret,Egretta rufescens,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Egretta_rufescens,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Wilson's Plover,Charadrius wilsonia,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_wilsonia,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Collared Finchbill,Spizixos semitorques,Passeriformes,Pycnonotidae (Bulbuls),Spizixos_semitorques,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri
+Egyptian Goose,Alopochen aegyptiaca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Alopochen_aegyptiaca,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Piping Plover,Charadrius melodus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_melodus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+White-cheeked Pintail,Anas bahamensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_bahamensis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Black-tailed Gull,Larus crassirostris,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Larus_crassirostris,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Purple Sandpiper,Calidris maritima,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_maritima,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Dusky Grouse,Dendragapus obscurus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Dendragapus_obscurus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Arctic Tern,Sterna paradisaea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_paradisaea,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Sharp-tailed Sandpiper,Calidris acuminata,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_acuminata,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Tropical Kingbird,Tyrannus melancholicus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_melancholicus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Crested Duck,Lophonetta specularioides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Lophonetta_specularioides,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Red-crested Cardinal,Paroaria coronata,Passeriformes,Thraupidae (Tanagers and Allies),Paroaria_coronata,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Saffron Finch,Sicalis flaveola,Passeriformes,Thraupidae (Tanagers and Allies),Sicalis_flaveola,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Whooper Swan,Cygnus cygnus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_cygnus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Whooping Crane,Grus americana,Gruiformes,Gruidae (Cranes),Grus_americana,BL3,Gruidae,Gruidae,Cranes,45,GRUIFORMES,NONPASSERIFORMES
+Bar-tailed Godwit,Limosa lapponica,Charadriiformes,Scolopacidae (Sandpipers and Allies),Limosa_lapponica,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Bicknell's Thrush,Catharus bicknelli,Passeriformes,Turdidae (Thrushes and Allies),Catharus_bicknelli,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Common Eider,Somateria mollissima,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Somateria_mollissima,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Common Greenshank,Tringa nebularia,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_nebularia,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Curlew Sandpiper,Calidris ferruginea,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_ferruginea,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Great Cormorant,Phalacrocorax carbo,Suliformes,Phalacrocoracidae (Cormorants and Shags),Phalacrocorax_carbo,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES
+Pink-footed Goose,Anser brachyrhynchus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anser_brachyrhynchus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Roseate Tern,Sterna dougallii,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Sterna_dougallii,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Smith's Longspur,Calcarius pictus,Passeriformes,Calcariidae (Longspurs and Snow Buntings),Calcarius_pictus,BL3,P11,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Yellow Rail,Coturnicops noveboracensis,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Coturnicops_noveboracensis,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Audubon's Oriole,Icterus graduacauda,Passeriformes,Icteridae (Troupials and Allies),Icterus_graduacauda,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Black-capped Vireo,Vireo atricapilla,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_atricapilla,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Blue-throated Hummingbird,Lampornis clemenciae,Caprimulgiformes,Trochilidae (Hummingbirds),Lampornis_clemenciae,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Chestnut-fronted Macaw,Ara severus,Psittaciformes,Psittacidae (New World and African Parrots),Ara_severus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Fork-tailed Flycatcher,Tyrannus savana,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_savana,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Green Kingfisher,Chloroceryle americana,Coraciiformes,Alcedinidae (Kingfishers),Chloroceryle_americana,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES
+Long-billed Thrasher,Toxostoma longirostre,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_longirostre,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Orange-cheeked Waxbill,Estrilda melpoda,Passeriformes,Estrildidae (Waxbills and Allies),Estrilda_melpoda,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Red-crested Pochard,Netta rufina,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Netta_rufina,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Ringed Kingfisher,Megaceryle torquata,Coraciiformes,Alcedinidae (Kingfishers),Megaceryle_torquata,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES
+Scaly-breasted Munia,Lonchura punctulata,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_punctulata,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+White-tipped Dove,Leptotila verreauxi,Columbiformes,Columbidae (Pigeons and Doves),Leptotila_verreauxi,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Red-throated Pipit,Anthus cervinus,Passeriformes,Motacillidae (Wagtails and Pipits),Anthus_cervinus,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri
+California Condor,Gymnogyps californianus,Cathartiformes,Cathartidae (New World Vultures),Gymnogyps_californianus,BL3,Cathartidae,Cathartidae,New World vultures,34,ACCIPITRIFORMES,NONPASSERIFORMES
+Diamond Dove,Geopelia cuneata,Columbiformes,Columbidae (Pigeons and Doves),Geopelia_cuneata,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Barnacle Goose,Branta leucopsis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Branta_leucopsis,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Pied Crow,Corvus albus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_albus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Red-billed Tropicbird,Phaethon aethereus,Phaethontiformes,Phaethontidae (Tropicbirds),Phaethon_aethereus,BL3,Phaethontidae,Phaethontidae,Tropicbirds,26,PHAETHONTIFORMES,NONPASSERIFORMES
+Black-backed Woodpecker,Picoides arcticus,Piciformes,Picidae (Woodpeckers),Picoides_arcticus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Rufous-backed Robin,Turdus rufopalliatus,Passeriformes,Turdidae (Thrushes and Allies),Turdus_rufopalliatus,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Golden Pheasant,Chrysolophus pictus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Chrysolophus_pictus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Groove-billed Ani,Crotophaga sulcirostris,Cuculiformes,Cuculidae (Cuckoos),Crotophaga_sulcirostris,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Ruddy Shelduck,Tadorna ferruginea,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Tadorna_ferruginea,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Blue-and-yellow Macaw,Ara ararauna,Psittaciformes,Psittacidae (New World and African Parrots),Ara_ararauna,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Green Peafowl,Pavo muticus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Pavo_muticus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Ringed Teal,Callonetta leucophrys,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Callonetta_leucophrys,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Scarlet Macaw,Ara macao,Psittaciformes,Psittacidae (New World and African Parrots),Ara_macao,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Northern Wheatear,Oenanthe oenanthe,Passeriformes,Muscicapidae (Old World Flycatchers),Oenanthe_oenanthe,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri
+Olive Sparrow,Arremonops rufivirgatus,Passeriformes,Passerellidae (New World Sparrows),Arremonops_rufivirgatus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Common Myna,Acridotheres tristis,Passeriformes,Sturnidae (Starlings),Acridotheres_tristis,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri
+Shiny Cowbird,Molothrus bonariensis,Passeriformes,Icteridae (Troupials and Allies),Molothrus_bonariensis,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Short-tailed Hawk,Buteo brachyurus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_brachyurus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Snail Kite,Rostrhamus sociabilis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Rostrhamus_sociabilis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Gila Woodpecker,Melanerpes uropygialis,Piciformes,Picidae (Woodpeckers),Melanerpes_uropygialis,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+Sharp-tailed Grouse,Tympanuchus phasianellus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Tympanuchus_phasianellus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Bridled Titmouse,Baeolophus wollweberi,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Baeolophus_wollweberi,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Montezuma Quail,Cyrtonyx montezumae,Galliformes,Odontophoridae (New World Quail),Cyrtonyx_montezumae,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+Varied Bunting,Passerina versicolor,Passeriformes,Cardinalidae (Cardinals and Allies),Passerina_versicolor,BL3,P12,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Violet-crowned Hummingbird,Amazilia violiceps,Caprimulgiformes,Trochilidae (Hummingbirds),Amazilia_violiceps,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Mountain Quail,Oreortyx pictus,Galliformes,Odontophoridae (New World Quail),Oreortyx_pictus,BL3,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES
+American Flamingo,Phoenicopterus ruber,Phoenicopteriformes,Phoenicopteridae (Flamingos),Phoenicopterus_ruber,BL3,Phoenicopteridae,Phoenicopteridae,Flamingos,22,PHOENICOPTERIFORMES,NONPASSERIFORMES
+Black-whiskered Vireo,Vireo altiloquus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_altiloquus,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Cockatiel,Nymphicus hollandicus,Psittaciformes,Cacatuidae (Cockatoos),Nymphicus_hollandicus,BL3,Cacatuidae,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Mangrove Cuckoo,Coccyzus minor,Cuculiformes,Cuculidae (Cuckoos),Coccyzus_minor,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Military Macaw,Ara militaris,Psittaciformes,Psittacidae (New World and African Parrots),Ara_militaris,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Red-and-green Macaw,Ara chloropterus,Psittaciformes,Psittacidae (New World and African Parrots),Ara_chloropterus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Smooth-billed Ani,Crotophaga ani,Cuculiformes,Cuculidae (Cuckoos),Crotophaga_ani,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Sulphur-bellied Flycatcher,Myiodynastes luteiventris,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiodynastes_luteiventris,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+White-crowned Pigeon,Patagioenas leucocephala,Columbiformes,Columbidae (Pigeons and Doves),Patagioenas_leucocephala,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+European Goldfinch,Carduelis carduelis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Carduelis_carduelis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri
+Red Junglefowl,Gallus gallus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Gallus_gallus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Boreal Owl,Aegolius funereus,Strigiformes,Strigidae (Owls),Aegolius_funereus,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Red-necked Stint,Calidris ruficollis,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_ruficollis,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Sooty Grouse,Dendragapus fuliginosus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Dendragapus_fuliginosus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Altamira Oriole,Icterus gularis,Passeriformes,Icteridae (Troupials and Allies),Icterus_gularis,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Amazon Kingfisher,Chloroceryle amazona,Coraciiformes,Alcedinidae (Kingfishers),Chloroceryle_amazona,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES
+Aplomado Falcon,Falco femoralis,Falconiformes,Falconidae (Falcons and Caracaras),Falco_femoralis,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Common Pauraque,Nyctidromus albicollis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Nyctidromus_albicollis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Dusky-capped Flycatcher,Myiarchus tuberculifer,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus_tuberculifer,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Golden-crowned Warbler,Basileuterus culicivorus,Passeriformes,Parulidae (New World Warblers),Basileuterus_culicivorus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Hook-billed Kite,Chondrohierax uncinatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Chondrohierax_uncinatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Plain Chachalaca,Ortalis vetula,Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",Ortalis_vetula,BL3,Cracidae,Cracidae,Guans and curassows,8,GALLIFORMES,NONPASSERIFORMES
+Rose-throated Becard,Pachyramphus aglaiae,Passeriformes,Tityridae (Tityras and Allies),Pachyramphus_aglaiae,BL3,TitTyranRest,Cotingidae,Cotingas,104,PASSERIFORMES,Tyranni
+Sulphur-crested Cockatoo,Cacatua galerita,Psittaciformes,Cacatuidae (Cockatoos),Cacatua_galerita,BL3,Cacatuidae,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Tamaulipas Crow,Corvus imparatus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_imparatus,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+White-crowned Parrot,Pionus senilis,Psittaciformes,Psittacidae (New World and African Parrots),Pionus_senilis,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-green Vireo,Vireo flavoviridis,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_flavoviridis,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Bendire's Thrasher,Toxostoma bendirei,Passeriformes,Mimidae (Mockingbirds and Thrashers),Toxostoma_bendirei,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Gilded Flicker,Colaptes chrysoides,Piciformes,Picidae (Woodpeckers),Colaptes_chrysoides,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES
+California Gnatcatcher,Polioptila californica,Passeriformes,Polioptilidae (Gnatcatchers),Polioptila_californica,BL3,M1,Polioptilidae,Gnatcatchers,172,PASSERIFORMES,Passeri
+Great White Pelican,Pelecanus onocrotalus,Pelecaniformes,Pelecanidae (Pelicans),Pelecanus_onocrotalus,BL3,Pelecanidae,Pelecanidae,Pelicans,30,PELECANIFORMES,NONPASSERIFORMES
+Scarlet Ibis,Eudocimus ruber,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),Eudocimus_ruber,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES
+Greater Flamingo,Phoenicopterus roseus,Phoenicopteriformes,Phoenicopteridae (Flamingos),Phoenicopterus_roseus,BL3,Phoenicopteridae,Phoenicopteridae,Flamingos,22,PHOENICOPTERIFORMES,NONPASSERIFORMES
+Ivory Gull,Pagophila eburnea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Pagophila_eburnea,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Lesser Flamingo,Phoeniconaias minor,Phoenicopteriformes,Phoenicopteridae (Flamingos),Phoeniconaias_minor,BL3,Phoenicopteridae,Phoenicopteridae,Flamingos,22,PHOENICOPTERIFORMES,NONPASSERIFORMES
+Blue Bunting,Cyanocompsa parellina,Passeriformes,Cardinalidae (Cardinals and Allies),Cyanocompsa_parellina,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Northern Jacana,Jacana spinosa,Charadriiformes,Jacanidae (Jacanas),Jacana_spinosa,BL3,Scolopaci,Jacanidae,Jacanas,56,CHARADRIIFORMES,NONPASSERIFORMES
+Common Crane,Grus grus,Gruiformes,Gruidae (Cranes),Grus_grus,BL3,Gruidae,Gruidae,Cranes,45,GRUIFORMES,NONPASSERIFORMES
+Eurasian Skylark,Alauda arvensis,Passeriformes,Alaudidae (Larks),Alauda_arvensis,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri
+White Wagtail,Motacilla alba,Passeriformes,Motacillidae (Wagtails and Pipits),Motacilla_alba,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri
+Rufous-capped Warbler,Basileuterus rufifrons,Passeriformes,Parulidae (New World Warblers),Basileuterus_rufifrons,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Little Egret,Egretta garzetta,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",Egretta_garzetta,BL3,Ardeidae,Ardeidae,Herons and egrets,25,PELECANIFORMES,NONPASSERIFORMES
+Northern Lapwing,Vanellus vanellus,Charadriiformes,Charadriidae (Plovers and Lapwings),Vanellus_vanellus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Black-necked Swan,Cygnus melancoryphus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Cygnus_melancoryphus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Common Shelduck,Tadorna tadorna,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Tadorna_tadorna,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Little Stint,Calidris minuta,Charadriiformes,Scolopacidae (Sandpipers and Allies),Calidris_minuta,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Lanner Falcon,Falco biarmicus,Falconiformes,Falconidae (Falcons and Caracaras),Falco_biarmicus,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES
+Olive Warbler,Peucedramus taeniatus,Passeriformes,Peucedramidae (Olive Warbler),Peucedramus_taeniatus,BL3,P5,Peucedramidae,Olive Warbler,187,PASSERIFORMES,Passeri
+Red-faced Warbler,Cardellina rubrifrons,Passeriformes,Parulidae (New World Warblers),Cardellina_rubrifrons,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Thick-billed Kingbird,Tyrannus crassirostris,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_crassirostris,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+White-eared Hummingbird,Hylocharis leucotis,Caprimulgiformes,Trochilidae (Hummingbirds),Hylocharis_leucotis,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Yellow-eyed Junco,Junco phaeonotus,Passeriformes,Passerellidae (New World Sparrows),Junco_phaeonotus,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Brown Noddy,Anous stolidus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Anous_stolidus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Great Tit,Parus major,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",Parus_major,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri
+Abdim's Stork,Ciconia abdimii,Ciconiiformes,Ciconiidae (Storks),Ciconia_abdimii,BL3,Ciconiidae,Ciconiidae,Storks,23,CICONIIFORMES,NONPASSERIFORMES
+Pink-backed Pelican,Pelecanus rufescens,Pelecaniformes,Pelecanidae (Pelicans),Pelecanus_rufescens,BL3,Pelecanidae,Pelecanidae,Pelicans,30,PELECANIFORMES,NONPASSERIFORMES
+Yellow-billed Stork,Mycteria ibis,Ciconiiformes,Ciconiidae (Storks),Mycteria_ibis,BL3,Ciconiidae,Ciconiidae,Storks,23,CICONIIFORMES,NONPASSERIFORMES
+Blue-bellied Roller,Coracias cyanogaster,Coraciiformes,Coraciidae (Rollers),Coracias_cyanogaster,BL3,Coraciidae,Coraciidae,Rollers,82,CORACIIFORMES,NONPASSERIFORMES
+Blue-faced Honeyeater,Entomyzon cyanotis,Passeriformes,Meliphagidae (Honeyeaters),Entomyzon_cyanotis,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri
+Ross's Gull,Rhodostethia rosea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Rhodostethia_rosea,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Alexandrine Parakeet,Psittacula eupatria,Psittaciformes,Psittaculidae (Old World Parrots),Psittacula_eupatria,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Elf Owl,Micrathene whitneyi,Strigiformes,Strigidae (Owls),Micrathene_whitneyi,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES
+Black-rumped Waxbill,Estrilda troglodytes,Passeriformes,Estrildidae (Waxbills and Allies),Estrilda_troglodytes,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Lilian's Lovebird,Agapornis lilianae,Psittaciformes,Psittaculidae (Old World Parrots),Agapornis_lilianae,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Piratic Flycatcher,Legatus leucophaius,Passeriformes,Tyrannidae (Tyrant Flycatchers),Legatus_leucophaius,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Red-vented Bulbul,Pycnonotus cafer,Passeriformes,Pycnonotidae (Bulbuls),Pycnonotus_cafer,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri
+White-winged Parakeet,Brotogeris versicolurus,Psittaciformes,Psittacidae (New World and African Parrots),Brotogeris_versicolurus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-chevroned Parakeet,Brotogeris chiriri,Psittaciformes,Psittacidae (New World and African Parrots),Brotogeris_chiriri,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Australian Shelduck,Tadorna tadornoides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Tadorna_tadornoides,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Antillean Nighthawk,Chordeiles gundlachii,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Chordeiles_gundlachii,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Bahama Mockingbird,Mimus gundlachii,Passeriformes,Mimidae (Mockingbirds and Thrashers),Mimus_gundlachii,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Cuban Vireo,Vireo gundlachii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_gundlachii,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+La Sagra's Flycatcher,Myiarchus sagrae,Passeriformes,Tyrannidae (Tyrant Flycatchers),Myiarchus_sagrae,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Masked Duck,Nomonyx dominicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Nomonyx_dominicus,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Paradise Tanager,Tangara chilensis,Passeriformes,Thraupidae (Tanagers and Allies),Tangara_chilensis,BL3,P17P18,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri
+Thick-billed Vireo,Vireo crassirostris,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",Vireo_crassirostris,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri
+Western Spindalis,Spindalis zena,Passeriformes,Spindalidae (Spindalises),Spindalis_zena,BL3,P20a,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri
+Emu,Dromaius novaehollandiae,Casuariiformes,Casuariidae (Cassowaries and Emu),Dromaius_novaehollandiae,BL3,Paleognathae,Dromaiidae,Emus,5,CASUARIIFORMES,NONPASSERIFORMES
+Coscoroba Swan,Coscoroba coscoroba,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Coscoroba_coscoroba,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Bahama Woodstar,Calliphlox evelynae,Caprimulgiformes,Trochilidae (Hummingbirds),Calliphlox_evelynae,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Crimson-collared Grosbeak,Rhodothraupis celaeno,Passeriformes,Cardinalidae (Cardinals and Allies),Rhodothraupis_celaeno,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Red-billed Pigeon,Patagioenas flavirostris,Columbiformes,Columbidae (Pigeons and Doves),Patagioenas_flavirostris,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Hooded Crane,Grus monacha,Gruiformes,Gruidae (Cranes),Grus_monacha,BL3,Gruidae,Gruidae,Cranes,45,GRUIFORMES,NONPASSERIFORMES
+White-winged Tern,Chlidonias leucopterus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Chlidonias_leucopterus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Bahama Swallow,Tachycineta cyaneoviridis,Passeriformes,Hirundinidae (Swallows),Tachycineta_cyaneoviridis,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Swallow-tailed Gull,Creagrus furcatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Creagrus_furcatus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Black-vented Oriole,Icterus wagleri,Passeriformes,Icteridae (Troupials and Allies),Icterus_wagleri,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Collared Plover,Charadrius collaris,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_collaris,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Green-breasted Mango,Anthracothorax prevostii,Caprimulgiformes,Trochilidae (Hummingbirds),Anthracothorax_prevostii,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Red-legged Honeycreeper,Cyanerpes cyaneus,Passeriformes,Thraupidae (Tanagers and Allies),Cyanerpes_cyaneus,BL3,P13P14P16,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri
+White-throated Thrush,Turdus assimilis,Passeriformes,Turdidae (Thrushes and Allies),Turdus_assimilis,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Green Sandpiper,Tringa ochropus,Charadriiformes,Scolopacidae (Sandpipers and Allies),Tringa_ochropus,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Bananaquit,Coereba flaveola,Passeriformes,Thraupidae (Tanagers and Allies),Coereba_flaveola,BL3,P17P18,Coerebidae,Bananaquit,191,PASSERIFORMES,Passeri
+Black-faced Grassquit,Tiaris bicolor,Passeriformes,Thraupidae (Tanagers and Allies),Tiaris_bicolor,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Common Pochard,Aythya ferina,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_ferina,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Cuban Bullfinch,Melopyrrha nigra,Passeriformes,Thraupidae (Tanagers and Allies),Melopyrrha_nigra,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Cuban Grassquit,Tiaris canorus,Passeriformes,Thraupidae (Tanagers and Allies),Tiaris_canorus,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Fischer's Lovebird,Agapornis fischeri,Psittaciformes,Psittaculidae (Old World Parrots),Agapornis_fischeri,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Lavender Waxbill,Estrilda caerulescens,Passeriformes,Estrildidae (Waxbills and Allies),Estrilda_caerulescens,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Loggerhead Kingbird,Tyrannus caudifasciatus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Tyrannus_caudifasciatus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Red-billed Firefinch,Lagonosticta senegala,Passeriformes,Estrildidae (Waxbills and Allies),Lagonosticta_senegala,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Red-breasted Parakeet,Psittacula alexandri,Psittaciformes,Psittaculidae (Old World Parrots),Psittacula_alexandri,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Red-cheeked Cordonbleu,Uraeginthus bengalus,Passeriformes,Estrildidae (Waxbills and Allies),Uraeginthus_bengalus,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Red-whiskered Bulbul,Pycnonotus jocosus,Passeriformes,Pycnonotidae (Bulbuls),Pycnonotus_jocosus,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri
+Rosy-billed Pochard,Netta peposaca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Netta_peposaca,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Scaly-headed Parrot,Pionus maximiliani,Psittaciformes,Psittacidae (New World and African Parrots),Pionus_maximiliani,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Spot-breasted Oriole,Icterus pectoralis,Passeriformes,Icteridae (Troupials and Allies),Icterus_pectoralis,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Tropical Mockingbird,Mimus gilvus,Passeriformes,Mimidae (Mockingbirds and Thrashers),Mimus_gilvus,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Variegated Flycatcher,Empidonomus varius,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonomus_varius,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Village Weaver,Ploceus cucullatus,Passeriformes,Ploceidae (Weavers and Allies),Ploceus_cucullatus,BL3,P6,Ploceidae,Weavers and allies,184,PASSERIFORMES,Passeri
+White-tailed Tropicbird,Phaethon lepturus,Phaethontiformes,Phaethontidae (Tropicbirds),Phaethon_lepturus,BL3,Phaethontidae,Phaethontidae,Tropicbirds,26,PHAETHONTIFORMES,NONPASSERIFORMES
+Yellow-collared Lovebird,Agapornis personatus,Psittaciformes,Psittaculidae (Old World Parrots),Agapornis_personatus,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Yellow-fronted Parrot,Poicephalus flavifrons,Psittaciformes,Psittacidae (New World and African Parrots),Poicephalus_flavifrons,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Zenaida Dove,Zenaida aurita,Columbiformes,Columbidae (Pigeons and Doves),Zenaida_aurita,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES
+Fieldfare,Turdus pilaris,Passeriformes,Turdidae (Thrushes and Allies),Turdus_pilaris,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri
+Ferruginous Duck,Aythya nyroca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Aythya_nyroca,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Red-legged Kittiwake,Rissa brevirostris,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",Rissa_brevirostris,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES
+Yellow Grosbeak,Pheucticus chrysopeplus,Passeriformes,Cardinalidae (Cardinals and Allies),Pheucticus_chrysopeplus,BL3,P12,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri
+Little Bunting,Emberiza pusilla,Passeriformes,Emberizidae (Old World Buntings),Emberiza_pusilla,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Village Indigobird,Vidua chalybeata,Passeriformes,Viduidae (Indigobirds),Vidua_chalybeata,BL3,P7,Viduidae,Indigobirds and allies,185,PASSERIFORMES,Passeri
+Bar-headed Goose,Anser indicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anser_indicus,BL3,Anserinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Smew,Mergellus albellus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Mergellus_albellus,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Black-backed Oriole,Icterus abeillei,Passeriformes,Icteridae (Troupials and Allies),Icterus_abeillei,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Yellow-faced Grassquit,Tiaris olivaceus,Passeriformes,Thraupidae (Tanagers and Allies),Tiaris_olivaceus,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Chilean Flamingo,Phoenicopterus chilensis,Phoenicopteriformes,Phoenicopteridae (Flamingos),Phoenicopterus_chilensis,BL3,Phoenicopteridae,Phoenicopteridae,Flamingos,22,PHOENICOPTERIFORMES,NONPASSERIFORMES
+Elegant Trogon,Trogon elegans,Trogoniformes,Trogonidae (Trogons),Trogon_elegans,BL3,Trogonidae,Trogonidae,Trogons,81,TROGONIFORMES,NONPASSERIFORMES
+Magpie Goose,Anseranas semipalmata,Anseriformes,Anseranatidae (Magpie Goose),Anseranas_semipalmata,BL3,Skeleton,Anseranatidae,Magpie Goose,13,ANSERIFORMES,NONPASSERIFORMES
+Burrowing Parakeet,Cyanoliseus patagonus,Psittaciformes,Psittacidae (New World and African Parrots),Cyanoliseus_patagonus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES
+Dusky Warbler,Phylloscopus fuscatus,Passeriformes,Phylloscopidae (Leaf Warblers),Phylloscopus_fuscatus,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri
+Gouldian Finch,Erythrura gouldiae,Passeriformes,Estrildidae (Waxbills and Allies),Erythrura_gouldiae,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Green-winged Pytilia,Pytilia melba,Passeriformes,Estrildidae (Waxbills and Allies),Pytilia_melba,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Japanese White-eye,Zosterops japonicus,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",Zosterops_japonicus,BL3,S13,Zosteropidae,White-eyes,164,PASSERIFORMES,Passeri
+Venezuelan Troupial,Icterus icterus,Passeriformes,Icteridae (Troupials and Allies),Icterus_icterus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Blue-black Grassquit,Volatinia jacarina,Passeriformes,Thraupidae (Tanagers and Allies),Volatinia_jacarina,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Yellow-billed Cardinal,Paroaria capitata,Passeriformes,Thraupidae (Tanagers and Allies),Paroaria_capitata,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Steller's Eider,Polysticta stelleri,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Polysticta_stelleri,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Long-tailed Mockingbird,Mimus longicaudatus,Passeriformes,Mimidae (Mockingbirds and Thrashers),Mimus_longicaudatus,BL3,M4,Mimidae,Mockingbirds and thrashers,175,PASSERIFORMES,Passeri
+Berylline Hummingbird,Amazilia beryllina,Caprimulgiformes,Trochilidae (Hummingbirds),Amazilia_beryllina,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Buff-breasted Flycatcher,Empidonax fulvifrons,Passeriformes,Tyrannidae (Tyrant Flycatchers),Empidonax_fulvifrons,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+Plain-capped Starthroat,Heliomaster constantii,Caprimulgiformes,Trochilidae (Hummingbirds),Heliomaster_constantii,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES
+Tufted Flycatcher,Mitrephanes phaeocercus,Passeriformes,Tyrannidae (Tyrant Flycatchers),Mitrephanes_phaeocercus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni
+White-rumped Shama,Copsychus malabaricus,Passeriformes,Muscicapidae (Old World Flycatchers),Copsychus_malabaricus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri
+Cut-throat,Amadina fasciata,Passeriformes,Estrildidae (Waxbills and Allies),Amadina_fasciata,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+European Robin,Erithacus rubecula,Passeriformes,Muscicapidae (Old World Flycatchers),Erithacus_rubecula,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri
+White-necked Raven,Corvus albicollis,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Corvus_albicollis,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Streak-backed Oriole,Icterus pustulatus,Passeriformes,Icteridae (Troupials and Allies),Icterus_pustulatus,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri
+Brown-chested Martin,Progne tapera,Passeriformes,Hirundinidae (Swallows),Progne_tapera,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri
+Lady Amherst's Pheasant,Chrysolophus amherstiae,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",Chrysolophus_amherstiae,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES
+Common Cuckoo,Cuculus canorus,Cuculiformes,Cuculidae (Cuckoos),Cuculus_canorus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES
+Arctic Loon,Gavia arctica,Gaviiformes,Gaviidae (Loons),Gavia_arctica,BL3,Gaviidae,Gaviidae,Loons or divers,16,GAVIIFORMES,NONPASSERIFORMES
+Common Gallinule,Gallinula galeata,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Gallinula_chloropus,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Wilson's Snipe,Gallinago delicata,Charadriiformes,Scolopacidae (Sandpipers and Allies),Gallinago_gallinago,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES
+Northern Shrike,Lanius borealis,Passeriformes,Laniidae (Shrikes),Lanius_excubitor,BL3,CC8,Laniidae,Shrikes,140,PASSERIFORMES,Passeri
+Black-throated Gray Warbler,Setophaga nigrescens,Passeriformes,Parulidae (New World Warblers),Dendroica_nigrescens,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri
+Pacific Wren,Troglodytes pacificus,Passeriformes,Troglodytidae (Wrens),Troglodytes_troglodytes,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri
+Snowy Plover,Charadrius nivosus,Charadriiformes,Charadriidae (Plovers and Lapwings),Charadrius_alexandrinus,BL3,Charadrii,Charadriidae,Plovers,54,CHARADRIIFORMES,NONPASSERIFORMES
+Eastern Whip-poor-will,Antrostomus vociferus,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Caprimulgus_vociferus,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,Passeriformes,"Corvidae (Crows, Jays, and Magpies)",Aphelocoma_californica,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri
+Mexican Duck,Anas diazi,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",Anas_platyrhynchos,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES
+Mexican Whip-poor-will,Antrostomus arizonae,Caprimulgiformes,Caprimulgidae (Nightjars and Allies),Caprimulgus_vociferus,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES
+Sagebrush Sparrow,Artemisiospiza nevadensis,Passeriformes,Passerellidae (New World Sparrows),Amphispiza_belli,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+LeConte's Sparrow,Ammospiza leconteii,Passeriformes,Passerellidae (New World Sparrows),Ammodramus_leconteii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Bell's Sparrow,Artemisiospiza belli,Passeriformes,Passerellidae (New World Sparrows),Amphispiza_belli,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Gray-headed Swamphen,Porphyrio poliocephalus,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Porphyrio_porphyrio,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Gray Hawk,Buteo plagiatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",Buteo_nitidus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES
+Ridgway's Rail,Rallus obsoletus,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Rallus_longirostris,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Russet-naped Wood-Rail,Aramides albiventris,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",Aramides_cajanea,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES
+Eastern Yellow Wagtail,Motacilla tschutschensis,Passeriformes,Motacillidae (Wagtails and Pipits),Motacilla_flava,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri
+Morelet's Seedeater,Sporophila morelleti,Passeriformes,Thraupidae (Tanagers and Allies),Sporophila_torqueola,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri
+Bronze Mannikin,Spermestes cucullata,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_cucullata,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Indian Silverbill,Euodice malabarica,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_malabarica,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Magpie Mannikin,Spermestes fringilloides,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_fringilloides,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Western Red-billed Hornbill,Tockus kempi,Bucerotiformes,Bucerotidae (Hornbills),Tockus_erythrorhynchus,BL3,Bucerotidae,Bucerotidae,Hornbills,91,BUCEROTIFORMES,NONPASSERIFORMES
+Black-capped Catbird,Ailuroedus melanocephalus,Passeriformes,Ptilonorhynchidae (Bowerbirds),Ailuroedus_melanotis,BL3,BC2,Ptilonorhynchidae,Bowerbirds,114,PASSERIFORMES,Passeri
+Black-and-white Mannikin,Spermestes bicolor,Passeriformes,Estrildidae (Waxbills and Allies),Lonchura_bicolor,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri
+Cassia Crossbill,Loxia sinesciuris,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",Loxia_curvirostra,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri

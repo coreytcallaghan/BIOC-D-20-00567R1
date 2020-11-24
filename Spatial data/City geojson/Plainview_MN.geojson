@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Plainview_MN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Plainview, MN", "city_ascii": "Plainview", "state_name": "Minnesota", "county_fips": 27157, "county_name": "Wabasha", "lat": 44.1647, "lng": -92.1693, "population": 3228.0, "population_proper": 3239, "density": 578.0, "FID": 1027, "UACE10": "69940", "AFFGEOID10": "400C100US69940", "GEOID10": "69940", "LSAD10": 76, "UATYP10": "C", "ALAND10": 4028800.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -92.181743, 44.162754 ], [ -92.178493, 44.163535 ], [ -92.179491, 44.165458 ], [ -92.179633, 44.172198 ], [ -92.149398, 44.17202 ], [ -92.149244, 44.157684 ], [ -92.158954, 44.157712 ], [ -92.158961, 44.155901 ], [ -92.169185, 44.155931 ], [ -92.169215, 44.158526 ], [ -92.172052, 44.157828 ], [ -92.179289, 44.15795 ], [ -92.179342, 44.160116 ], [ -92.179378, 44.161554 ], [ -92.181743, 44.162754 ] ] ] ] } }
+]
+}

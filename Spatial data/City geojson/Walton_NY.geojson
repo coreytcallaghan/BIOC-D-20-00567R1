@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Walton_NY",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Walton, NY", "city_ascii": "Walton", "state_name": "New York", "county_fips": 36025, "county_name": "Delaware", "lat": 42.1688, "lng": -75.1304, "population": 2874.0, "population_proper": 2894, "density": 724.0, "FID": 2593, "UACE10": "91567", "AFFGEOID10": "400C100US91567", "GEOID10": "91567", "LSAD10": 76, "UATYP10": "C", "ALAND10": 3583152.0, "AWATER10": 66943.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -75.14348, 42.175611 ], [ -75.123738, 42.180988 ], [ -75.119307, 42.177426 ], [ -75.120973, 42.161568 ], [ -75.122185, 42.159701 ], [ -75.119871, 42.156206 ], [ -75.119458, 42.154577 ], [ -75.125959, 42.158737 ], [ -75.135815, 42.16134 ], [ -75.134449, 42.164532 ], [ -75.135908, 42.165628 ], [ -75.12995, 42.166887 ], [ -75.133648, 42.166359 ], [ -75.140147, 42.167454 ], [ -75.141339, 42.162753 ], [ -75.144108, 42.163504 ], [ -75.14348, 42.175611 ] ] ] ] } }
+]
+}

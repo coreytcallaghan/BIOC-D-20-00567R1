@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Caledonia_MN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Caledonia, MN", "city_ascii": "Caledonia", "state_name": "Minnesota", "county_fips": 27055, "county_name": "Houston", "lat": 43.6343, "lng": -91.5008, "population": 2670.0, "population_proper": 2786, "density": 378.0, "FID": 292, "UACE10": "12376", "AFFGEOID10": "400C100US12376", "GEOID10": "12376", "LSAD10": 76, "UATYP10": "C", "ALAND10": 4413148.0, "AWATER10": 571.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -91.508462, 43.635259 ], [ -91.507043, 43.636221 ], [ -91.506583, 43.640159 ], [ -91.502159, 43.639682 ], [ -91.494689, 43.645292 ], [ -91.482117, 43.64536 ], [ -91.481948, 43.624008 ], [ -91.506714, 43.623462 ], [ -91.506712, 43.623751 ], [ -91.506533, 43.632613 ], [ -91.505069, 43.634397 ], [ -91.508461, 43.634279 ], [ -91.508462, 43.635259 ] ] ] ] } }
+]
+}

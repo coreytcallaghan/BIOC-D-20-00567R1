@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San Joaquin_CA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "San Joaquin, CA", "city_ascii": "San Joaquin", "state_name": "California", "county_fips": 6019, "county_name": "Fresno", "lat": 36.6056, "lng": -120.1898, "population": 4005.0, "population_proper": 4024, "density": 1297.0, "FID": 1178, "UACE10": "79012", "AFFGEOID10": "400C100US79012", "GEOID10": "79012", "LSAD10": 76, "UATYP10": "C", "ALAND10": 2466571.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -120.200144, 36.602983 ], [ -120.190972, 36.603243 ], [ -120.192751, 36.603401 ], [ -120.192736, 36.608704 ], [ -120.195278, 36.610413 ], [ -120.197462, 36.610385 ], [ -120.197443, 36.614319 ], [ -120.178972, 36.614517 ], [ -120.178695, 36.600179 ], [ -120.183739, 36.603384 ], [ -120.183304, 36.599016 ], [ -120.188037, 36.598975 ], [ -120.200124, 36.59931 ], [ -120.200129, 36.601231 ], [ -120.200144, 36.602983 ] ] ] ] } }
+]
+}

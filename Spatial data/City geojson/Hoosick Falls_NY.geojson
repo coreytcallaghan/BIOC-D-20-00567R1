@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hoosick Falls_NY",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME10": "Hoosick Falls, NY", "city_ascii": "Hoosick Falls", "state_name": "New York", "county_fips": 36083, "county_name": "Rensselaer", "lat": 42.9009, "lng": -73.35, "population": 3508.0, "population_proper": 3420, "density": 826.0, "FID": 691, "UACE10": "39997", "AFFGEOID10": "400C100US39997", "GEOID10": "39997", "LSAD10": 76, "UATYP10": "C", "ALAND10": 4207207.0, "AWATER10": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -73.362592, 42.906875 ], [ -73.363025, 42.910105 ], [ -73.349093, 42.911219 ], [ -73.344221, 42.911376 ], [ -73.339553, 42.910669 ], [ -73.33767, 42.892399 ], [ -73.351774, 42.889398 ], [ -73.356406, 42.888798 ], [ -73.355597, 42.891142 ], [ -73.359286, 42.893172 ], [ -73.36055, 42.895222 ], [ -73.362138, 42.904753 ], [ -73.363933, 42.905038 ], [ -73.362592, 42.906875 ] ] ] ] } }
+]
+}
