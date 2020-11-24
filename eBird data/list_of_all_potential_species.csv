@@ -1,0 +1,845 @@
+COMMON_NAME,SCIENTIFIC_NAME,order,family
+American Coot,Fulica americana,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+American Crow,Corvus brachyrhynchos,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+American Goldfinch,Spinus tristis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+American Kestrel,Falco sparverius,Falconiformes,Falconidae (Falcons and Caracaras)
+American Pipit,Anthus rubescens,Passeriformes,Motacillidae (Wagtails and Pipits)
+American Redstart,Setophaga ruticilla,Passeriformes,Parulidae (New World Warblers)
+American Robin,Turdus migratorius,Passeriformes,Turdidae (Thrushes and Allies)
+American White Pelican,Pelecanus erythrorhynchos,Pelecaniformes,Pelecanidae (Pelicans)
+Anhinga,Anhinga anhinga,Suliformes,Anhingidae (Anhingas)
+Bald Eagle,Haliaeetus leucocephalus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Barn Swallow,Hirundo rustica,Passeriformes,Hirundinidae (Swallows)
+Barred Owl,Strix varia,Strigiformes,Strigidae (Owls)
+Belted Kingfisher,Megaceryle alcyon,Coraciiformes,Alcedinidae (Kingfishers)
+Black-and-white Warbler,Mniotilta varia,Passeriformes,Parulidae (New World Warblers)
+Black-bellied Whistling-Duck,Dendrocygna autumnalis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-chinned Hummingbird,Archilochus alexandri,Caprimulgiformes,Trochilidae (Hummingbirds)
+Black-crowned Night-Heron,Nycticorax nycticorax,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Black-throated Blue Warbler,Setophaga caerulescens,Passeriformes,Parulidae (New World Warblers)
+Black-throated Green Warbler,Setophaga virens,Passeriformes,Parulidae (New World Warblers)
+Black Vulture,Coragyps atratus,Cathartiformes,Cathartidae (New World Vultures)
+Blue-gray Gnatcatcher,Polioptila caerulea,Passeriformes,Polioptilidae (Gnatcatchers)
+Blue-headed Vireo,Vireo solitarius,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Blue-winged Warbler,Vermivora cyanoptera,Passeriformes,Parulidae (New World Warblers)
+Blue Grosbeak,Passerina caerulea,Passeriformes,Cardinalidae (Cardinals and Allies)
+Blue Jay,Cyanocitta cristata,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Boat-tailed Grackle,Quiscalus major,Passeriformes,Icteridae (Troupials and Allies)
+Brown-headed Cowbird,Molothrus ater,Passeriformes,Icteridae (Troupials and Allies)
+Brown Creeper,Certhia americana,Passeriformes,Certhiidae (Treecreepers)
+Brown Pelican,Pelecanus occidentalis,Pelecaniformes,Pelecanidae (Pelicans)
+Brown Thrasher,Toxostoma rufum,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Carolina Chickadee,Poecile carolinensis,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Carolina Wren,Thryothorus ludovicianus,Passeriformes,Troglodytidae (Wrens)
+Caspian Tern,Hydroprogne caspia,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Cattle Egret,Bubulcus ibis,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Cedar Waxwing,Bombycilla cedrorum,Passeriformes,Bombycillidae (Waxwings)
+Chimney Swift,Chaetura pelagica,Caprimulgiformes,Apodidae (Swifts)
+Chipping Sparrow,Spizella passerina,Passeriformes,Passerellidae (New World Sparrows)
+Common Gallinule,Gallinula galeata,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Common Grackle,Quiscalus quiscula,Passeriformes,Icteridae (Troupials and Allies)
+Common Yellowthroat,Geothlypis trichas,Passeriformes,Parulidae (New World Warblers)
+Cooper's Hawk,Accipiter cooperii,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Dark-eyed Junco,Junco hyemalis,Passeriformes,Passerellidae (New World Sparrows)
+Double-crested Cormorant,Phalacrocorax auritus,Suliformes,Phalacrocoracidae (Cormorants and Shags)
+Downy Woodpecker,Dryobates pubescens,Piciformes,Picidae (Woodpeckers)
+Eastern Bluebird,Sialia sialis,Passeriformes,Turdidae (Thrushes and Allies)
+Eastern Kingbird,Tyrannus tyrannus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Eastern Meadowlark,Sturnella magna,Passeriformes,Icteridae (Troupials and Allies)
+Eastern Phoebe,Sayornis phoebe,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Eastern Screech-Owl,Megascops asio,Strigiformes,Strigidae (Owls)
+Eastern Towhee,Pipilo erythrophthalmus,Passeriformes,Passerellidae (New World Sparrows)
+Eastern Wood-Pewee,Contopus virens,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Eurasian Collared-Dove,Streptopelia decaocto,Columbiformes,Columbidae (Pigeons and Doves)
+European Starling,Sturnus vulgaris,Passeriformes,Sturnidae (Starlings)
+Fish Crow,Corvus ossifragus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Forster's Tern,Sterna forsteri,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Golden-crowned Kinglet,Regulus satrapa,Passeriformes,Regulidae (Kinglets)
+Gray Catbird,Dumetella carolinensis,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Great-tailed Grackle,Quiscalus mexicanus,Passeriformes,Icteridae (Troupials and Allies)
+Great Blue Heron,Ardea herodias,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Great Crested Flycatcher,Myiarchus crinitus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Great Egret,Ardea alba,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Great Horned Owl,Bubo virginianus,Strigiformes,Strigidae (Owls)
+Greater White-fronted Goose,Anser albifrons,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Green Heron,Butorides virescens,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Hairy Woodpecker,Dryobates villosus,Piciformes,Picidae (Woodpeckers)
+Hermit Thrush,Catharus guttatus,Passeriformes,Turdidae (Thrushes and Allies)
+Herring Gull,Larus argentatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+House Finch,Haemorhous mexicanus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+House Sparrow,Passer domesticus,Passeriformes,Passeridae (Old World Sparrows)
+House Wren,Troglodytes aedon,Passeriformes,Troglodytidae (Wrens)
+Inca Dove,Columbina inca,Columbiformes,Columbidae (Pigeons and Doves)
+Indigo Bunting,Passerina cyanea,Passeriformes,Cardinalidae (Cardinals and Allies)
+Killdeer,Charadrius vociferus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Laughing Gull,Leucophaeus atricilla,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Least Sandpiper,Calidris minutilla,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Little Blue Heron,Egretta caerulea,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Loggerhead Shrike,Lanius ludovicianus,Passeriformes,Laniidae (Shrikes)
+Magnolia Warbler,Setophaga magnolia,Passeriformes,Parulidae (New World Warblers)
+Mallard,Anas platyrhynchos,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Marsh Wren,Cistothorus palustris,Passeriformes,Troglodytidae (Wrens)
+Mississippi Kite,Ictinia mississippiensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Mottled Duck,Anas fulvigula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Mourning Dove,Zenaida macroura,Columbiformes,Columbidae (Pigeons and Doves)
+Neotropic Cormorant,Phalacrocorax brasilianus,Suliformes,Phalacrocoracidae (Cormorants and Shags)
+Northern Cardinal,Cardinalis cardinalis,Passeriformes,Cardinalidae (Cardinals and Allies)
+Northern Flicker,Colaptes auratus,Piciformes,Picidae (Woodpeckers)
+Northern Mockingbird,Mimus polyglottos,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Northern Parula,Setophaga americana,Passeriformes,Parulidae (New World Warblers)
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,Passeriformes,Hirundinidae (Swallows)
+Orange-crowned Warbler,Oreothlypis celata,Passeriformes,Parulidae (New World Warblers)
+Orchard Oriole,Icterus spurius,Passeriformes,Icteridae (Troupials and Allies)
+Osprey,Pandion haliaetus,Accipitriformes,Pandionidae (Osprey)
+Painted Bunting,Passerina ciris,Passeriformes,Cardinalidae (Cardinals and Allies)
+Palm Warbler,Setophaga palmarum,Passeriformes,Parulidae (New World Warblers)
+Pectoral Sandpiper,Calidris melanotos,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Pied-billed Grebe,Podilymbus podiceps,Podicipediformes,Podicipedidae (Grebes)
+Pileated Woodpecker,Dryocopus pileatus,Piciformes,Picidae (Woodpeckers)
+Pine Siskin,Spinus pinus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Pine Warbler,Setophaga pinus,Passeriformes,Parulidae (New World Warblers)
+Purple Finch,Haemorhous purpureus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Purple Martin,Progne subis,Passeriformes,Hirundinidae (Swallows)
+Red-bellied Woodpecker,Melanerpes carolinus,Piciformes,Picidae (Woodpeckers)
+Red-breasted Nuthatch,Sitta canadensis,Passeriformes,Sittidae (Nuthatches)
+Red-eyed Vireo,Vireo olivaceus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Red-shouldered Hawk,Buteo lineatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Red-tailed Hawk,Buteo jamaicensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Red-winged Blackbird,Agelaius phoeniceus,Passeriformes,Icteridae (Troupials and Allies)
+Redhead,Aythya americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Ring-billed Gull,Larus delawarensis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Roseate Spoonbill,Platalea ajaja,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills)
+Royal Tern,Thalasseus maximus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Ruby-crowned Kinglet,Regulus calendula,Passeriformes,Regulidae (Kinglets)
+Ruby-throated Hummingbird,Archilochus colubris,Caprimulgiformes,Trochilidae (Hummingbirds)
+Rufous Hummingbird,Selasphorus rufus,Caprimulgiformes,Trochilidae (Hummingbirds)
+Rusty Blackbird,Euphagus carolinus,Passeriformes,Icteridae (Troupials and Allies)
+Savannah Sparrow,Passerculus sandwichensis,Passeriformes,Passerellidae (New World Sparrows)
+Sedge Wren,Cistothorus platensis,Passeriformes,Troglodytidae (Wrens)
+Snowy Egret,Egretta thula,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Song Sparrow,Melospiza melodia,Passeriformes,Passerellidae (New World Sparrows)
+Spotted Sandpiper,Actitis macularius,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Summer Tanager,Piranga rubra,Passeriformes,Cardinalidae (Cardinals and Allies)
+Swamp Sparrow,Melospiza georgiana,Passeriformes,Passerellidae (New World Sparrows)
+Tennessee Warbler,Oreothlypis peregrina,Passeriformes,Parulidae (New World Warblers)
+Tree Swallow,Tachycineta bicolor,Passeriformes,Hirundinidae (Swallows)
+Tricolored Heron,Egretta tricolor,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Tufted Titmouse,Baeolophus bicolor,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Turkey Vulture,Cathartes aura,Cathartiformes,Cathartidae (New World Vultures)
+White-eyed Vireo,Vireo griseus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+White-faced Ibis,Plegadis chihi,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills)
+White-throated Sparrow,Zonotrichia albicollis,Passeriformes,Passerellidae (New World Sparrows)
+White-winged Dove,Zenaida asiatica,Columbiformes,Columbidae (Pigeons and Doves)
+White Ibis,Eudocimus albus,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills)
+Wilson's Snipe,Gallinago delicata,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Wilson's Warbler,Cardellina pusilla,Passeriformes,Parulidae (New World Warblers)
+Wood Duck,Aix sponsa,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Wood Thrush,Hylocichla mustelina,Passeriformes,Turdidae (Thrushes and Allies)
+Yellow-bellied Sapsucker,Sphyrapicus varius,Piciformes,Picidae (Woodpeckers)
+Yellow-billed Cuckoo,Coccyzus americanus,Cuculiformes,Cuculidae (Cuckoos)
+Yellow-crowned Night-Heron,Nyctanassa violacea,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Yellow-rumped Warbler,Setophaga coronata,Passeriformes,Parulidae (New World Warblers)
+Yellow Warbler,Setophaga petechia,Passeriformes,Parulidae (New World Warblers)
+Acadian Flycatcher,Empidonax virescens,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Canada Goose,Branta canadensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Rock Pigeon,Columba livia,Columbiformes,Columbidae (Pigeons and Doves)
+White-breasted Nuthatch,Sitta carolinensis,Passeriformes,Sittidae (Nuthatches)
+Field Sparrow,Spizella pusilla,Passeriformes,Passerellidae (New World Sparrows)
+Red-headed Woodpecker,Melanerpes erythrocephalus,Piciformes,Picidae (Woodpeckers)
+Scarlet Tanager,Piranga olivacea,Passeriformes,Cardinalidae (Cardinals and Allies)
+White-crowned Sparrow,Zonotrichia leucophrys,Passeriformes,Passerellidae (New World Sparrows)
+American Tree Sparrow,Spizelloides arborea,Passeriformes,Passerellidae (New World Sparrows)
+American Wigeon,Mareca americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Baltimore Oriole,Icterus galbula,Passeriformes,Icteridae (Troupials and Allies)
+Bank Swallow,Riparia riparia,Passeriformes,Hirundinidae (Swallows)
+Bay-breasted Warbler,Setophaga castanea,Passeriformes,Parulidae (New World Warblers)
+Black-capped Chickadee,Poecile atricapillus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Black Tern,Chlidonias niger,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Blackburnian Warbler,Setophaga fusca,Passeriformes,Parulidae (New World Warblers)
+Blackpoll Warbler,Setophaga striata,Passeriformes,Parulidae (New World Warblers)
+Blue-winged Teal,Spatula discors,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Bobolink,Dolichonyx oryzivorus,Passeriformes,Icteridae (Troupials and Allies)
+Bohemian Waxwing,Bombycilla garrulus,Passeriformes,Bombycillidae (Waxwings)
+Broad-winged Hawk,Buteo platypterus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Bufflehead,Bucephala albeola,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Cackling Goose,Branta hutchinsii,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+California Gull,Larus californicus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Canada Warbler,Cardellina canadensis,Passeriformes,Parulidae (New World Warblers)
+Canvasback,Aythya valisineria,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Cape May Warbler,Setophaga tigrina,Passeriformes,Parulidae (New World Warblers)
+Chestnut-sided Warbler,Setophaga pensylvanica,Passeriformes,Parulidae (New World Warblers)
+Clay-colored Sparrow,Spizella pallida,Passeriformes,Passerellidae (New World Sparrows)
+Cliff Swallow,Petrochelidon pyrrhonota,Passeriformes,Hirundinidae (Swallows)
+Common Loon,Gavia immer,Gaviiformes,Gaviidae (Loons)
+Common Merganser,Mergus merganser,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Common Nighthawk,Chordeiles minor,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Common Redpoll,Acanthis flammea,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Eared Grebe,Podiceps nigricollis,Podicipediformes,Podicipedidae (Grebes)
+Fox Sparrow,Passerella iliaca,Passeriformes,Passerellidae (New World Sparrows)
+Franklin's Gull,Leucophaeus pipixcan,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Gadwall,Mareca strepera,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Golden-winged Warbler,Vermivora chrysoptera,Passeriformes,Parulidae (New World Warblers)
+Gray-cheeked Thrush,Catharus minimus,Passeriformes,Turdidae (Thrushes and Allies)
+Greater Scaup,Aythya marila,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Greater Yellowlegs,Tringa melanoleuca,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Green-winged Teal,Anas crecca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Harris's Sparrow,Zonotrichia querula,Passeriformes,Passerellidae (New World Sparrows)
+Hoary Redpoll,Acanthis hornemanni,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Hooded Merganser,Lophodytes cucullatus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Horned Grebe,Podiceps auritus,Podicipediformes,Podicipedidae (Grebes)
+Horned Lark,Eremophila alpestris,Passeriformes,Alaudidae (Larks)
+Lark Sparrow,Chondestes grammacus,Passeriformes,Passerellidae (New World Sparrows)
+Least Flycatcher,Empidonax minimus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Lesser Scaup,Aythya affinis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Lesser Yellowlegs,Tringa flavipes,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Lincoln's Sparrow,Melospiza lincolnii,Passeriformes,Passerellidae (New World Sparrows)
+Long-billed Dowitcher,Limnodromus scolopaceus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Mourning Warbler,Geothlypis philadelphia,Passeriformes,Parulidae (New World Warblers)
+Nashville Warbler,Oreothlypis ruficapilla,Passeriformes,Parulidae (New World Warblers)
+Northern Harrier,Circus hudsonius,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Northern Pintail,Anas acuta,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Northern Shoveler,Spatula clypeata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Northern Shrike,Lanius borealis,Passeriformes,Laniidae (Shrikes)
+Northern Waterthrush,Parkesia noveboracensis,Passeriformes,Parulidae (New World Warblers)
+Olive-sided Flycatcher,Contopus cooperi,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Ovenbird,Seiurus aurocapilla,Passeriformes,Parulidae (New World Warblers)
+Philadelphia Vireo,Vireo philadelphicus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Pine Grosbeak,Pinicola enucleator,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Red Crossbill,Loxia curvirostra,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Ring-necked Duck,Aythya collaris,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Ring-necked Pheasant,Phasianus colchicus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Rose-breasted Grosbeak,Pheucticus ludovicianus,Passeriformes,Cardinalidae (Cardinals and Allies)
+Ross's Goose,Anser rossii,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Ruddy Duck,Oxyura jamaicensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Semipalmated Sandpiper,Calidris pusilla,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Sharp-shinned Hawk,Accipiter striatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Snow Bunting,Plectrophenax nivalis,Passeriformes,Calcariidae (Longspurs and Snow Buntings)
+Snow Goose,Anser caerulescens,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Solitary Sandpiper,Tringa solitaria,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Sora,Porzana carolina,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Spotted Towhee,Pipilo maculatus,Passeriformes,Passerellidae (New World Sparrows)
+Swainson's Hawk,Buteo swainsoni,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Swainson's Thrush,Catharus ustulatus,Passeriformes,Turdidae (Thrushes and Allies)
+Townsend's Solitaire,Myadestes townsendi,Passeriformes,Turdidae (Thrushes and Allies)
+Townsend's Warbler,Setophaga townsendi,Passeriformes,Parulidae (New World Warblers)
+Vesper Sparrow,Pooecetes gramineus,Passeriformes,Passerellidae (New World Sparrows)
+Virginia Rail,Rallus limicola,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Warbling Vireo,Vireo gilvus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Western Grebe,Aechmophorus occidentalis,Podicipediformes,Podicipedidae (Grebes)
+Western Kingbird,Tyrannus verticalis,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Western Meadowlark,Sturnella neglecta,Passeriformes,Icteridae (Troupials and Allies)
+White-winged Crossbill,Loxia leucoptera,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Willow Flycatcher,Empidonax traillii,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Wilson's Phalarope,Phalaropus tricolor,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Winter Wren,Troglodytes hiemalis,Passeriformes,Troglodytidae (Wrens)
+Yellow-bellied Flycatcher,Empidonax flaviventris,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Yellow-breasted Chat,Icteria virens,Passeriformes,Icteriidae (Yellow-breasted Chat)
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Passeriformes,Icteridae (Troupials and Allies)
+Anna's Hummingbird,Calypte anna,Caprimulgiformes,Trochilidae (Hummingbirds)
+Band-tailed Pigeon,Patagioenas fasciata,Columbiformes,Columbidae (Pigeons and Doves)
+Barn Owl,Tyto alba,Strigiformes,Tytonidae (Barn-Owls)
+Bewick's Wren,Thryomanes bewickii,Passeriformes,Troglodytidae (Wrens)
+Black-headed Grosbeak,Pheucticus melanocephalus,Passeriformes,Cardinalidae (Cardinals and Allies)
+Black-throated Gray Warbler,Setophaga nigrescens,Passeriformes,Parulidae (New World Warblers)
+Brandt's Cormorant,Phalacrocorax penicillatus,Suliformes,Phalacrocoracidae (Cormorants and Shags)
+Brewer's Blackbird,Euphagus cyanocephalus,Passeriformes,Icteridae (Troupials and Allies)
+Bushtit,Psaltriparus minimus,Passeriformes,Aegithalidae (Long-tailed Tits)
+California Scrub-Jay,Aphelocoma californica,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Cassin's Vireo,Vireo cassinii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Chestnut-backed Chickadee,Poecile rufescens,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Clark's Grebe,Aechmophorus clarkii,Podicipediformes,Podicipedidae (Grebes)
+Common Goldeneye,Bucephala clangula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Common Raven,Corvus corax,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Dunlin,Calidris alpina,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Eurasian Wigeon,Mareca penelope,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Evening Grosbeak,Coccothraustes vespertinus,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Glaucous-winged Gull,Larus glaucescens,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Golden-crowned Sparrow,Zonotrichia atricapilla,Passeriformes,Passerellidae (New World Sparrows)
+Heermann's Gull,Larus heermanni,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Hooded Oriole,Icterus cucullatus,Passeriformes,Icteridae (Troupials and Allies)
+Hutton's Vireo,Vireo huttoni,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Iceland Gull,Larus glaucoides,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Marbled Godwit,Limosa fedoa,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Merlin,Falco columbarius,Falconiformes,Falconidae (Falcons and Caracaras)
+Mew Gull,Larus canus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Northwestern Crow,Corvus caurinus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Pacific-slope Flycatcher,Empidonax difficilis,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Pacific Wren,Troglodytes pacificus,Passeriformes,Troglodytidae (Wrens)
+Pelagic Cormorant,Phalacrocorax pelagicus,Suliformes,Phalacrocoracidae (Cormorants and Shags)
+Peregrine Falcon,Falco peregrinus,Falconiformes,Falconidae (Falcons and Caracaras)
+Red-breasted Merganser,Mergus serrator,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Red-breasted Sapsucker,Sphyrapicus ruber,Piciformes,Picidae (Woodpeckers)
+Red-necked Phalarope,Phalaropus lobatus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Red-throated Loon,Gavia stellata,Gaviiformes,Gaviidae (Loons)
+Rough-legged Hawk,Buteo lagopus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Ruffed Grouse,Bonasa umbellus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Steller's Jay,Cyanocitta stelleri,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Surf Scoter,Melanitta perspicillata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Varied Thrush,Ixoreus naevius,Passeriformes,Turdidae (Thrushes and Allies)
+Vaux's Swift,Chaetura vauxi,Caprimulgiformes,Apodidae (Swifts)
+Violet-green Swallow,Tachycineta thalassina,Passeriformes,Hirundinidae (Swallows)
+Western Gull,Larus occidentalis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Western Sandpiper,Calidris mauri,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Western Tanager,Piranga ludoviciana,Passeriformes,Cardinalidae (Cardinals and Allies)
+Whimbrel,Numenius phaeopus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Black-necked Stilt,Himantopus mexicanus,Charadriiformes,Recurvirostridae (Stilts and Avocets)
+Cave Swallow,Petrochelidon fulva,Passeriformes,Hirundinidae (Swallows)
+Northern Bobwhite,Colinus virginianus,Galliformes,Odontophoridae (New World Quail)
+Pyrrhuloxia,Cardinalis sinuatus,Passeriformes,Cardinalidae (Cardinals and Allies)
+Wild Turkey,Meleagris gallopavo,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+American Avocet,Recurvirostra americana,Charadriiformes,Recurvirostridae (Stilts and Avocets)
+Ash-throated Flycatcher,Myiarchus cinerascens,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Baird's Sandpiper,Calidris bairdii,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Bell's Vireo,Vireo bellii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Black-crested Titmouse,Baeolophus atricristatus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Black-throated Sparrow,Amphispiza bilineata,Passeriformes,Passerellidae (New World Sparrows)
+Bonaparte's Gull,Chroicocephalus philadelphia,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Bronzed Cowbird,Molothrus aeneus,Passeriformes,Icteridae (Troupials and Allies)
+Bullock's Oriole,Icterus bullockii,Passeriformes,Icteridae (Troupials and Allies)
+Burrowing Owl,Athene cunicularia,Strigiformes,Strigidae (Owls)
+Cactus Wren,Campylorhynchus brunneicapillus,Passeriformes,Troglodytidae (Wrens)
+Canyon Towhee,Melozone fusca,Passeriformes,Passerellidae (New World Sparrows)
+Cassin's Sparrow,Peucaea cassinii,Passeriformes,Passerellidae (New World Sparrows)
+Chihuahuan Raven,Corvus cryptoleucus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Cinnamon Teal,Spatula cyanoptera,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Common Tern,Sterna hirundo,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Couch's Kingbird,Tyrannus couchii,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Curve-billed Thrasher,Toxostoma curvirostre,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Dickcissel,Spiza americana,Passeriformes,Cardinalidae (Cardinals and Allies)
+Ferruginous Hawk,Buteo regalis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Golden-fronted Woodpecker,Melanerpes aurifrons,Piciformes,Picidae (Woodpeckers)
+Grasshopper Sparrow,Ammodramus savannarum,Passeriformes,Passerellidae (New World Sparrows)
+Greater Roadrunner,Geococcyx californianus,Cuculiformes,Cuculidae (Cuckoos)
+Harris's Hawk,Parabuteo unicinctus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Hudsonian Godwit,Limosa haemastica,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Ladder-backed Woodpecker,Dryobates scalaris,Piciformes,Picidae (Woodpeckers)
+Lark Bunting,Calamospiza melanocorys,Passeriformes,Passerellidae (New World Sparrows)
+Least Bittern,Ixobrychus exilis,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Least Tern,Sternula antillarum,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Lesser Goldfinch,Spinus psaltria,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+MacGillivray's Warbler,Geothlypis tolmiei,Passeriformes,Parulidae (New World Warblers)
+Mexican Violetear,Colibri thalassinus,Caprimulgiformes,Trochilidae (Hummingbirds)
+Mountain Bluebird,Sialia currucoides,Passeriformes,Turdidae (Thrushes and Allies)
+Rufous-crowned Sparrow,Aimophila ruficeps,Passeriformes,Passerellidae (New World Sparrows)
+Sanderling,Calidris alba,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Sandhill Crane,Antigone canadensis,Gruiformes,Gruidae (Cranes)
+Say's Phoebe,Sayornis saya,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Scissor-tailed Flycatcher,Tyrannus forficatus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Semipalmated Plover,Charadrius semipalmatus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Snowy Plover,Charadrius nivosus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Sprague's Pipit,Anthus spragueii,Passeriformes,Motacillidae (Wagtails and Pipits)
+Stilt Sandpiper,Calidris himantopus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Upland Sandpiper,Bartramia longicauda,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Verdin,Auriparus flaviceps,Passeriformes,Remizidae (Penduline-Tits)
+Vermilion Flycatcher,Pyrocephalus rubinus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Western Bluebird,Sialia mexicana,Passeriformes,Turdidae (Thrushes and Allies)
+White-rumped Sandpiper,Calidris fuscicollis,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Willet,Tringa semipalmata,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Louisiana Waterthrush,Parkesia motacilla,Passeriformes,Parulidae (New World Warblers)
+Glaucous Gull,Larus hyperboreus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Swallow-tailed Kite,Elanoides forficatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Alder Flycatcher,Empidonax alnorum,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+American Black Duck,Anas rubripes,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+American Woodcock,Scolopax minor,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Black-billed Cuckoo,Coccyzus erythropthalmus,Cuculiformes,Cuculidae (Cuckoos)
+Cerulean Warbler,Setophaga cerulea,Passeriformes,Parulidae (New World Warblers)
+Mute Swan,Cygnus olor,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Northern Saw-whet Owl,Aegolius acadicus,Strigiformes,Strigidae (Owls)
+Prothonotary Warbler,Protonotaria citrea,Passeriformes,Parulidae (New World Warblers)
+Snowy Owl,Bubo scandiacus,Strigiformes,Strigidae (Owls)
+Trumpeter Swan,Cygnus buccinator,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Tundra Swan,Cygnus columbianus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Veery,Catharus fuscescens,Passeriformes,Turdidae (Thrushes and Allies)
+Yellow-throated Vireo,Vireo flavifrons,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Yellow-throated Warbler,Setophaga dominica,Passeriformes,Parulidae (New World Warblers)
+Hooded Warbler,Setophaga citrina,Passeriformes,Parulidae (New World Warblers)
+American Bittern,Botaurus lentiginosus,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+American Golden-Plover,Pluvialis dominica,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Black-bellied Plover,Pluvialis squatarola,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Black Scoter,Melanitta americana,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black Swan,Cygnus atratus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Brambling,Fringilla montifringilla,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Buff-breasted Sandpiper,Calidris subruficollis,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Chukar,Alectoris chukar,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Connecticut Warbler,Oporornis agilis,Passeriformes,Parulidae (New World Warblers)
+Eastern Whip-poor-will,Antrostomus vociferus,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Golden Eagle,Aquila chrysaetos,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Great Black-backed Gull,Larus marinus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Henslow's Sparrow,Centronyx henslowii,Passeriformes,Passerellidae (New World Sparrows)
+Kelp Gull,Larus dominicanus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Kentucky Warbler,Geothlypis formosa,Passeriformes,Parulidae (New World Warblers)
+Lapland Longspur,Calcarius lapponicus,Passeriformes,Calcariidae (Longspurs and Snow Buntings)
+Lesser Black-backed Gull,Larus fuscus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Little Gull,Hydrocoloeus minutus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Long-eared Owl,Asio otus,Strigiformes,Strigidae (Owls)
+Long-tailed Duck,Clangula hyemalis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Muscovy Duck,Cairina moschata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Nelson's Sparrow,Ammospiza nelsoni,Passeriformes,Passerellidae (New World Sparrows)
+Prairie Warbler,Setophaga discolor,Passeriformes,Parulidae (New World Warblers)
+Purple Gallinule,Porphyrio martinica,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Red-necked Grebe,Podiceps grisegena,Podicipediformes,Podicipedidae (Grebes)
+Short-billed Dowitcher,Limnodromus griseus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Short-eared Owl,Asio flammeus,Strigiformes,Strigidae (Owls)
+White-winged Scoter,Melanitta deglandi,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Worm-eating Warbler,Helmitheros vermivorum,Passeriformes,Parulidae (New World Warblers)
+Common Ground-Dove,Columbina passerina,Columbiformes,Columbidae (Pigeons and Doves)
+Wood Stork,Mycteria americana,Ciconiiformes,Ciconiidae (Storks)
+Black-tailed Gnatcatcher,Polioptila melanura,Passeriformes,Polioptilidae (Gnatcatchers)
+Black Phoebe,Sayornis nigricans,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Brewer's Sparrow,Spizella breweri,Passeriformes,Passerellidae (New World Sparrows)
+Broad-tailed Hummingbird,Selasphorus platycercus,Caprimulgiformes,Trochilidae (Hummingbirds)
+Canyon Wren,Catherpes mexicanus,Passeriformes,Troglodytidae (Wrens)
+Cassin's Finch,Haemorhous cassinii,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Crissal Thrasher,Toxostoma crissale,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Gambel's Quail,Callipepla gambelii,Galliformes,Odontophoridae (New World Quail)
+Green-tailed Towhee,Pipilo chlorurus,Passeriformes,Passerellidae (New World Sparrows)
+Lesser Nighthawk,Chordeiles acutipennis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Lewis's Woodpecker,Melanerpes lewis,Piciformes,Picidae (Woodpeckers)
+Mountain Chickadee,Poecile gambeli,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Phainopepla,Phainopepla nitens,Passeriformes,Ptiliogonatidae (Silky-flycatchers)
+Red-naped Sapsucker,Sphyrapicus nuchalis,Piciformes,Picidae (Woodpeckers)
+Rock Wren,Salpinctes obsoletus,Passeriformes,Troglodytidae (Wrens)
+Scaled Quail,Callipepla squamata,Galliformes,Odontophoridae (New World Quail)
+Scott's Oriole,Icterus parisorum,Passeriformes,Icteridae (Troupials and Allies)
+Western Wood-Pewee,Contopus sordidulus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+White-throated Swift,Aeronautes saxatalis,Caprimulgiformes,Apodidae (Swifts)
+Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Black-billed Magpie,Pica hudsonia,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Lazuli Bunting,Passerina amoena,Passeriformes,Cardinalidae (Cardinals and Allies)
+Prairie Falcon,Falco mexicanus,Falconiformes,Falconidae (Falcons and Caracaras)
+Bachman's Sparrow,Peucaea aestivalis,Passeriformes,Passerellidae (New World Sparrows)
+Brown-headed Nuthatch,Sitta pusilla,Passeriformes,Sittidae (Nuthatches)
+Chuck-will's-widow,Antrostomus carolinensis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Glossy Ibis,Plegadis falcinellus,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills)
+Limpkin,Aramus guarauna,Gruiformes,Aramidae (Limpkin)
+Monk Parakeet,Myiopsitta monachus,Psittaciformes,Psittacidae (New World and African Parrots)
+Swainson's Warbler,Limnothlypis swainsonii,Passeriformes,Parulidae (New World Warblers)
+Ruddy Turnstone,Arenaria interpres,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Acorn Woodpecker,Melanerpes formicivorus,Piciformes,Picidae (Woodpeckers)
+Black Swift,Cypseloides niger,Caprimulgiformes,Apodidae (Swifts)
+California Quail,Callipepla californica,Galliformes,Odontophoridae (New World Quail)
+Calliope Hummingbird,Selasphorus calliope,Caprimulgiformes,Trochilidae (Hummingbirds)
+Canada Jay,Perisoreus canadensis,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Chestnut-collared Longspur,Calcarius ornatus,Passeriformes,Calcariidae (Longspurs and Snow Buntings)
+Graylag Goose,Anser anser,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Hammond's Flycatcher,Empidonax hammondii,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Hermit Warbler,Setophaga occidentalis,Passeriformes,Parulidae (New World Warblers)
+Long-billed Curlew,Numenius americanus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Northern Goshawk,Accipiter gentilis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Pacific Golden-Plover,Pluvialis fulva,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Red Phalarope,Phalaropus fulicarius,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Ruff,Calidris pugnax,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Tricolored Blackbird,Agelaius tricolor,Passeriformes,Icteridae (Troupials and Allies)
+Western Screech-Owl,Megascops kennicottii,Strigiformes,Strigidae (Owls)
+Wrentit,Chamaea fasciata,Passeriformes,"Paradoxornithidae (Parrotbills, Wrentit, and Allies)"
+Pacific Loon,Gavia pacifica,Gaviiformes,Gaviidae (Loons)
+American Dipper,Cinclus mexicanus,Passeriformes,Cinclidae (Dippers)
+American Three-toed Woodpecker,Picoides dorsalis,Piciformes,Picidae (Woodpeckers)
+Barrow's Goldeneye,Bucephala islandica,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-chinned Sparrow,Spizella atrogularis,Passeriformes,Passerellidae (New World Sparrows)
+Black Rosy-Finch,Leucosticte atrata,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Brant,Branta bernicla,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Brown-capped Rosy-Finch,Leucosticte australis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Budgerigar,Melopsittacus undulatus,Psittaciformes,Psittaculidae (Old World Parrots)
+Cassin's Kingbird,Tyrannus vociferans,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Clark's Nutcracker,Nucifraga columbiana,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Common Black Hawk,Buteogallus anthracinus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Common Poorwill,Phalaenoptilus nuttallii,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Cordilleran Flycatcher,Empidonax occidentalis,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Dusky Flycatcher,Empidonax oberholseri,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Flammulated Owl,Psiloscops flammeolus,Strigiformes,Strigidae (Owls)
+Grace's Warbler,Setophaga graciae,Passeriformes,Parulidae (New World Warblers)
+Gray-crowned Rosy-Finch,Leucosticte tephrocotis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Gray Flycatcher,Empidonax wrightii,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Gray Vireo,Vireo vicinior,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Greater Pewee,Contopus pertinax,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Helmeted Guineafowl,Numida meleagris,Galliformes,Numididae (Guineafowl)
+Hepatic Tanager,Piranga flava,Passeriformes,Cardinalidae (Cardinals and Allies)
+Indian Peafowl,Pavo cristatus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Juniper Titmouse,Baeolophus ridgwayi,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Lucy's Warbler,Oreothlypis luciae,Passeriformes,Parulidae (New World Warblers)
+McCown's Longspur,Rhynchophanes mccownii,Passeriformes,Calcariidae (Longspurs and Snow Buntings)
+Mexican Duck,Anas diazi,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Mexican Whip-poor-will,Antrostomus arizonae,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Northern Pygmy-Owl,Glaucidium gnoma,Strigiformes,Strigidae (Owls)
+Painted Redstart,Myioborus pictus,Passeriformes,Parulidae (New World Warblers)
+Pinyon Jay,Gymnorhinus cyanocephalus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Plumbeous Vireo,Vireo plumbeus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Pygmy Nuthatch,Sitta pygmaea,Passeriformes,Sittidae (Nuthatches)
+Rosy-faced Lovebird,Agapornis roseicollis,Psittaciformes,Psittaculidae (Old World Parrots)
+Sabine's Gull,Xema sabini,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Sage Thrasher,Oreoscoptes montanus,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Sagebrush Sparrow,Artemisiospiza nevadensis,Passeriformes,Passerellidae (New World Sparrows)
+Swan Goose,Anser cygnoides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Virginia's Warbler,Oreothlypis virginiae,Passeriformes,Parulidae (New World Warblers)
+White-tailed Kite,Elanus leucurus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Williamson's Sapsucker,Sphyrapicus thyroideus,Piciformes,Picidae (Woodpeckers)
+Zone-tailed Hawk,Buteo albonotatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Eurasian Tree Sparrow,Passer montanus,Passeriformes,Passeridae (Old World Sparrows)
+King Rail,Rallus elegans,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+LeConte's Sparrow,Ammospiza leconteii,Passeriformes,Passerellidae (New World Sparrows)
+Red-cockaded Woodpecker,Dryobates borealis,Piciformes,Picidae (Woodpeckers)
+Harlequin Duck,Histrionicus histrionicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Brown-crested Flycatcher,Myiarchus tyrannulus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Crested Caracara,Caracara cheriway,Falconiformes,Falconidae (Falcons and Caracaras)
+Great Kiskadee,Pitangus sulphuratus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Green Jay,Cyanocorax yncas,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+White-tailed Hawk,Geranoaetus albicaudatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Red Knot,Calidris canutus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Allen's Hummingbird,Selasphorus sasin,Caprimulgiformes,Trochilidae (Hummingbirds)
+Broad-billed Hummingbird,Cynanthus latirostris,Caprimulgiformes,Trochilidae (Hummingbirds)
+Costa's Hummingbird,Calypte costae,Caprimulgiformes,Trochilidae (Hummingbirds)
+Lucifer Hummingbird,Calothorax lucifer,Caprimulgiformes,Trochilidae (Hummingbirds)
+Rivoli's Hummingbird,Eugenes fulgens,Caprimulgiformes,Trochilidae (Hummingbirds)
+Mountain Plover,Charadrius montanus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Gray Partridge,Perdix perdix,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Black-legged Kittiwake,Rissa tridactyla,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Black Oystercatcher,Haematopus bachmani,Charadriiformes,Haematopodidae (Oystercatchers)
+Black Turnstone,Arenaria melanocephala,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+King Eider,Somateria spectabilis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Rock Sandpiper,Calidris ptilocnemis,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Surfbird,Calidris virgata,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Wandering Tattler,Tringa incana,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Yellow-billed Loon,Gavia adamsii,Gaviiformes,Gaviidae (Loons)
+Fulvous Whistling-Duck,Dendrocygna bicolor,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Least Grebe,Tachybaptus dominicus,Podicipediformes,Podicipedidae (Grebes)
+Mandarin Duck,Aix galericulata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Kirtland's Warbler,Setophaga kirtlandii,Passeriformes,Parulidae (New World Warblers)
+Slaty-backed Gull,Larus schistisagus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Spotted Redshank,Tringa erythropus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Bell's Sparrow,Artemisiospiza belli,Passeriformes,Passerellidae (New World Sparrows)
+Black Rail,Laterallus jamaicensis,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+California Thrasher,Toxostoma redivivum,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+California Towhee,Melozone crissalis,Passeriformes,Passerellidae (New World Sparrows)
+Elegant Tern,Thalasseus elegans,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Lawrence's Goldfinch,Spinus lawrencei,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Mitred Parakeet,Psittacara mitratus,Psittaciformes,Psittacidae (New World and African Parrots)
+Nuttall's Woodpecker,Dryobates nuttallii,Piciformes,Picidae (Woodpeckers)
+Oak Titmouse,Baeolophus inornatus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Pin-tailed Whydah,Vidua macroura,Passeriformes,Viduidae (Indigobirds)
+Rose-ringed Parakeet,Psittacula krameri,Psittaciformes,Psittaculidae (Old World Parrots)
+Tufted Duck,Aythya fuligula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Yellow-billed Magpie,Pica nuttalli,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Zebra Finch,Taeniopygia guttata,Passeriformes,Estrildidae (Waxbills and Allies)
+American Oystercatcher,Haematopus palliatus,Charadriiformes,Haematopodidae (Oystercatchers)
+Black Skimmer,Rynchops niger,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Buff-bellied Hummingbird,Amazilia yucatanensis,Caprimulgiformes,Trochilidae (Hummingbirds)
+Clapper Rail,Rallus crepitans,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Gray Kingbird,Tyrannus dominicensis,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Gull-billed Tern,Gelochelidon nilotica,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Reddish Egret,Egretta rufescens,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Sandwich Tern,Thalasseus sandvicensis,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Seaside Sparrow,Ammospiza maritima,Passeriformes,Passerellidae (New World Sparrows)
+Wilson's Plover,Charadrius wilsonia,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Collared Finchbill,Spizixos semitorques,Passeriformes,Pycnonotidae (Bulbuls)
+Egyptian Goose,Alopochen aegyptiaca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Piping Plover,Charadrius melodus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Sooty Tern,Onychoprion fuscatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+White-cheeked Pintail,Anas bahamensis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-headed Gull,Chroicocephalus ridibundus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Black-tailed Gull,Larus crassirostris,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Purple Sandpiper,Calidris maritima,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Dusky Grouse,Dendragapus obscurus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Arctic Tern,Sterna paradisaea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Emperor Goose,Anser canagicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Sharp-tailed Sandpiper,Calidris acuminata,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Tropical Kingbird,Tyrannus melancholicus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Crested Duck,Lophonetta specularioides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Red-crested Cardinal,Paroaria coronata,Passeriformes,Thraupidae (Tanagers and Allies)
+Saffron Finch,Sicalis flaveola,Passeriformes,Thraupidae (Tanagers and Allies)
+Whooper Swan,Cygnus cygnus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Whooping Crane,Grus americana,Gruiformes,Gruidae (Cranes)
+Yellow-fronted Canary,Crithagra mozambica,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Yellow-throated Woodland-Warbler,Phylloscopus ruficapilla,Passeriformes,Phylloscopidae (Leaf Warblers)
+Bar-tailed Godwit,Limosa lapponica,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Bicknell's Thrush,Catharus bicknelli,Passeriformes,Turdidae (Thrushes and Allies)
+Common Eider,Somateria mollissima,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Common Greenshank,Tringa nebularia,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Curlew Sandpiper,Calidris ferruginea,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Great Cormorant,Phalacrocorax carbo,Suliformes,Phalacrocoracidae (Cormorants and Shags)
+Nanday Parakeet,Aratinga nenday,Psittaciformes,Psittacidae (New World and African Parrots)
+Pink-footed Goose,Anser brachyrhynchus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Roseate Tern,Sterna dougallii,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Saltmarsh Sparrow,Ammospiza caudacuta,Passeriformes,Passerellidae (New World Sparrows)
+Smith's Longspur,Calcarius pictus,Passeriformes,Calcariidae (Longspurs and Snow Buntings)
+Yellow Rail,Coturnicops noveboracensis,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Boreal Chickadee,Poecile hudsonicus,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Audubon's Oriole,Icterus graduacauda,Passeriformes,Icteridae (Troupials and Allies)
+Black-capped Vireo,Vireo atricapilla,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Blue-throated Hummingbird,Lampornis clemenciae,Caprimulgiformes,Trochilidae (Hummingbirds)
+Chestnut-fronted Macaw,Ara severus,Psittaciformes,Psittacidae (New World and African Parrots)
+Fork-tailed Flycatcher,Tyrannus savana,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Golden-cheeked Warbler,Setophaga chrysoparia,Passeriformes,Parulidae (New World Warblers)
+Green Kingfisher,Chloroceryle americana,Coraciiformes,Alcedinidae (Kingfishers)
+Green Parakeet,Psittacara holochlorus,Psittaciformes,Psittacidae (New World and African Parrots)
+Long-billed Thrasher,Toxostoma longirostre,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Northern Red Bishop,Euplectes franciscanus,Passeriformes,Ploceidae (Weavers and Allies)
+Orange-cheeked Waxbill,Estrilda melpoda,Passeriformes,Estrildidae (Waxbills and Allies)
+Red-crested Pochard,Netta rufina,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Ringed Kingfisher,Megaceryle torquata,Coraciiformes,Alcedinidae (Kingfishers)
+Scaly-breasted Munia,Lonchura punctulata,Passeriformes,Estrildidae (Waxbills and Allies)
+Tropical Parula,Setophaga pitiayumi,Passeriformes,Parulidae (New World Warblers)
+White-tipped Dove,Leptotila verreauxi,Columbiformes,Columbidae (Pigeons and Doves)
+Red-throated Pipit,Anthus cervinus,Passeriformes,Motacillidae (Wagtails and Pipits)
+Spotted Dove,Streptopelia chinensis,Columbiformes,Columbidae (Pigeons and Doves)
+California Condor,Gymnogyps californianus,Cathartiformes,Cathartidae (New World Vultures)
+Diamond Dove,Geopelia cuneata,Columbiformes,Columbidae (Pigeons and Doves)
+Lilac-crowned Parrot,Amazona finschi,Psittaciformes,Psittacidae (New World and African Parrots)
+Barnacle Goose,Branta leucopsis,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Pied Crow,Corvus albus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Red-billed Tropicbird,Phaethon aethereus,Phaethontiformes,Phaethontidae (Tropicbirds)
+Black-backed Woodpecker,Picoides arcticus,Piciformes,Picidae (Woodpeckers)
+Spruce Grouse,Falcipennis canadensis,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Rufous-backed Robin,Turdus rufopalliatus,Passeriformes,Turdidae (Thrushes and Allies)
+Golden Pheasant,Chrysolophus pictus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Groove-billed Ani,Crotophaga sulcirostris,Cuculiformes,Cuculidae (Cuckoos)
+Ruddy Shelduck,Tadorna ferruginea,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Blue-and-yellow Macaw,Ara ararauna,Psittaciformes,Psittacidae (New World and African Parrots)
+Green Peafowl,Pavo muticus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Ringed Teal,Callonetta leucophrys,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Scarlet Macaw,Ara macao,Psittaciformes,Psittacidae (New World and African Parrots)
+Northern Wheatear,Oenanthe oenanthe,Passeriformes,Muscicapidae (Old World Flycatchers)
+Olive Sparrow,Arremonops rufivirgatus,Passeriformes,Passerellidae (New World Sparrows)
+Common Myna,Acridotheres tristis,Passeriformes,Sturnidae (Starlings)
+Gray-headed Swamphen,Porphyrio poliocephalus,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Shiny Cowbird,Molothrus bonariensis,Passeriformes,Icteridae (Troupials and Allies)
+Short-tailed Hawk,Buteo brachyurus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Snail Kite,Rostrhamus sociabilis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Red-flanked Bluetail,Tarsiger cyanurus,Passeriformes,Muscicapidae (Old World Flycatchers)
+White-headed Woodpecker,Dryobates albolarvatus,Piciformes,Picidae (Woodpeckers)
+Abert's Towhee,Melozone aberti,Passeriformes,Passerellidae (New World Sparrows)
+Botteri's Sparrow,Peucaea botterii,Passeriformes,Passerellidae (New World Sparrows)
+Gila Woodpecker,Melanerpes uropygialis,Piciformes,Picidae (Woodpeckers)
+Gray Hawk,Buteo plagiatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Northern Beardless-Tyrannulet,Camptostoma imberbe,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Rufous-winged Sparrow,Peucaea carpalis,Passeriformes,Passerellidae (New World Sparrows)
+Sharp-tailed Grouse,Tympanuchus phasianellus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Bridled Titmouse,Baeolophus wollweberi,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Mexican Jay,Aphelocoma wollweberi,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Montezuma Quail,Cyrtonyx montezumae,Galliformes,Odontophoridae (New World Quail)
+Varied Bunting,Passerina versicolor,Passeriformes,Cardinalidae (Cardinals and Allies)
+Violet-crowned Hummingbird,Amazilia violiceps,Caprimulgiformes,Trochilidae (Hummingbirds)
+Mountain Quail,Oreortyx pictus,Galliformes,Odontophoridae (New World Quail)
+American Flamingo,Phoenicopterus ruber,Phoenicopteriformes,Phoenicopteridae (Flamingos)
+Black-whiskered Vireo,Vireo altiloquus,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Cockatiel,Nymphicus hollandicus,Psittaciformes,Cacatuidae (Cockatoos)
+Florida Scrub-Jay,Aphelocoma coerulescens,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Mangrove Cuckoo,Coccyzus minor,Cuculiformes,Cuculidae (Cuckoos)
+Military Macaw,Ara militaris,Psittaciformes,Psittacidae (New World and African Parrots)
+Red-and-green Macaw,Ara chloropterus,Psittaciformes,Psittacidae (New World and African Parrots)
+Smooth-billed Ani,Crotophaga ani,Cuculiformes,Cuculidae (Cuckoos)
+Sulphur-bellied Flycatcher,Myiodynastes luteiventris,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+White-crowned Pigeon,Patagioenas leucocephala,Columbiformes,Columbidae (Pigeons and Doves)
+Yellow-headed Parrot,Amazona oratrix,Psittaciformes,Psittacidae (New World and African Parrots)
+European Goldfinch,Carduelis carduelis,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Red Junglefowl,Gallus gallus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Boreal Owl,Aegolius funereus,Strigiformes,Strigidae (Owls)
+African Collared-Dove,Streptopelia roseogrisea,Columbiformes,Columbidae (Pigeons and Doves)
+Ruddy Ground-Dove,Columbina talpacoti,Columbiformes,Columbidae (Pigeons and Doves)
+Red-necked Stint,Calidris ruficollis,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Sooty Grouse,Dendragapus fuliginosus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Altamira Oriole,Icterus gularis,Passeriformes,Icteridae (Troupials and Allies)
+Amazon Kingfisher,Chloroceryle amazona,Coraciiformes,Alcedinidae (Kingfishers)
+Aplomado Falcon,Falco femoralis,Falconiformes,Falconidae (Falcons and Caracaras)
+Clay-colored Thrush,Turdus grayi,Passeriformes,Turdidae (Thrushes and Allies)
+Common Pauraque,Nyctidromus albicollis,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Dusky-capped Flycatcher,Myiarchus tuberculifer,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Golden-crowned Warbler,Basileuterus culicivorus,Passeriformes,Parulidae (New World Warblers)
+Hook-billed Kite,Chondrohierax uncinatus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Plain Chachalaca,Ortalis vetula,Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)"
+Red-crowned Parrot,Amazona viridigenalis,Psittaciformes,Psittacidae (New World and African Parrots)
+Red-lored Parrot,Amazona autumnalis,Psittaciformes,Psittacidae (New World and African Parrots)
+Red-masked Parakeet,Psittacara erythrogenys,Psittaciformes,Psittacidae (New World and African Parrots)
+Rose-throated Becard,Pachyramphus aglaiae,Passeriformes,Tityridae (Tityras and Allies)
+Sulphur-crested Cockatoo,Cacatua galerita,Psittaciformes,Cacatuidae (Cockatoos)
+Tamaulipas Crow,Corvus imparatus,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+White-crowned Parrot,Pionus senilis,Psittaciformes,Psittacidae (New World and African Parrots)
+White-fronted Parrot,Amazona albifrons,Psittaciformes,Psittacidae (New World and African Parrots)
+Yellow-crowned Parrot,Amazona ochrocephala,Psittaciformes,Psittacidae (New World and African Parrots)
+Yellow-green Vireo,Vireo flavoviridis,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Yellow-lored Parrot,Amazona xantholora,Psittaciformes,Psittacidae (New World and African Parrots)
+Bendire's Thrasher,Toxostoma bendirei,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Gilded Flicker,Colaptes chrysoides,Piciformes,Picidae (Woodpeckers)
+Ridgway's Rail,Rallus obsoletus,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Garganey,Spatula querquedula,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+California Gnatcatcher,Polioptila californica,Passeriformes,Polioptilidae (Gnatcatchers)
+Blue-crowned Parakeet,Thectocercus acuticaudatus,Psittaciformes,Psittacidae (New World and African Parrots)
+Giant Wood-Rail,Aramides ypecaha,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Great White Pelican,Pelecanus onocrotalus,Pelecaniformes,Pelecanidae (Pelicans)
+Russet-naped Wood-Rail,Aramides albiventris,Gruiformes,"Rallidae (Rails, Gallinules, and Coots)"
+Scarlet Ibis,Eudocimus ruber,Pelecaniformes,Threskiornithidae (Ibises and Spoonbills)
+Eastern Yellow Wagtail,Motacilla tschutschensis,Passeriformes,Motacillidae (Wagtails and Pipits)
+Greater Flamingo,Phoenicopterus roseus,Phoenicopteriformes,Phoenicopteridae (Flamingos)
+Ivory Gull,Pagophila eburnea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Lesser Flamingo,Phoeniconaias minor,Phoenicopteriformes,Phoenicopteridae (Flamingos)
+Blue Bunting,Cyanocompsa parellina,Passeriformes,Cardinalidae (Cardinals and Allies)
+Northern Jacana,Jacana spinosa,Charadriiformes,Jacanidae (Jacanas)
+Greater Sage-Grouse,Centrocercus urophasianus,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Common Crane,Grus grus,Gruiformes,Gruidae (Cranes)
+Common Scoter,Melanitta nigra,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Eurasian Skylark,Alauda arvensis,Passeriformes,Alaudidae (Larks)
+White Wagtail,Motacilla alba,Passeriformes,Motacillidae (Wagtails and Pipits)
+Rufous-capped Warbler,Basileuterus rufifrons,Passeriformes,Parulidae (New World Warblers)
+Morelet's Seedeater,Sporophila morelleti,Passeriformes,Thraupidae (Tanagers and Allies)
+LeConte's Thrasher,Toxostoma lecontei,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Little Egret,Egretta garzetta,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Northern Lapwing,Vanellus vanellus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Black-necked Swan,Cygnus melancoryphus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Common Shelduck,Tadorna tadorna,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Little Stint,Calidris minuta,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Lanner Falcon,Falco biarmicus,Falconiformes,Falconidae (Falcons and Caracaras)
+Olive Warbler,Peucedramus taeniatus,Passeriformes,Peucedramidae (Olive Warbler)
+Red-faced Warbler,Cardellina rubrifrons,Passeriformes,Parulidae (New World Warblers)
+Thick-billed Kingbird,Tyrannus crassirostris,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+White-eared Hummingbird,Hylocharis leucotis,Caprimulgiformes,Trochilidae (Hummingbirds)
+Yellow-eyed Junco,Junco phaeonotus,Passeriformes,Passerellidae (New World Sparrows)
+Brown Noddy,Anous stolidus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Great Tit,Parus major,Passeriformes,"Paridae (Tits, Chickadees, and Titmice)"
+Abdim's Stork,Ciconia abdimii,Ciconiiformes,Ciconiidae (Storks)
+Pink-backed Pelican,Pelecanus rufescens,Pelecaniformes,Pelecanidae (Pelicans)
+Yellow-billed Stork,Mycteria ibis,Ciconiiformes,Ciconiidae (Storks)
+Bridled Tern,Onychoprion anaethetus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Blue-bellied Roller,Coracias cyanogaster,Coraciiformes,Coraciidae (Rollers)
+Blue-faced Honeyeater,Entomyzon cyanotis,Passeriformes,Meliphagidae (Honeyeaters)
+Baird's Sparrow,Centronyx bairdii,Passeriformes,Passerellidae (New World Sparrows)
+White-faced Whistling-Duck,Dendrocygna viduata,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Laughing Dove,Streptopelia senegalensis,Columbiformes,Columbidae (Pigeons and Doves)
+Ross's Gull,Rhodostethia rosea,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Alexandrine Parakeet,Psittacula eupatria,Psittaciformes,Psittaculidae (Old World Parrots)
+Elf Owl,Micrathene whitneyi,Strigiformes,Strigidae (Owls)
+Black-rumped Waxbill,Estrilda troglodytes,Passeriformes,Estrildidae (Waxbills and Allies)
+Bronze Mannikin,Spermestes cucullata,Passeriformes,Estrildidae (Waxbills and Allies)
+Greater Prairie-Chicken,Tympanuchus cupido,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Indian Silverbill,Euodice malabarica,Passeriformes,Estrildidae (Waxbills and Allies)
+Lilian's Lovebird,Agapornis lilianae,Psittaciformes,Psittaculidae (Old World Parrots)
+Magpie Mannikin,Spermestes fringilloides,Passeriformes,Estrildidae (Waxbills and Allies)
+Piratic Flycatcher,Legatus leucophaius,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Red-vented Bulbul,Pycnonotus cafer,Passeriformes,Pycnonotidae (Bulbuls)
+Western Red-billed Hornbill,Tockus kempi,Bucerotiformes,Bucerotidae (Hornbills)
+White-winged Parakeet,Brotogeris versicolurus,Psittaciformes,Psittacidae (New World and African Parrots)
+Yellow-chevroned Parakeet,Brotogeris chiriri,Psittaciformes,Psittacidae (New World and African Parrots)
+Australian Shelduck,Tadorna tadornoides,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-capped Catbird,Ailuroedus melanocephalus,Passeriformes,Ptilonorhynchidae (Bowerbirds)
+Antillean Nighthawk,Chordeiles gundlachii,Caprimulgiformes,Caprimulgidae (Nightjars and Allies)
+Bahama Mockingbird,Mimus gundlachii,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Cuban Vireo,Vireo gundlachii,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+La Sagra's Flycatcher,Myiarchus sagrae,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Masked Duck,Nomonyx dominicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Paradise Tanager,Tangara chilensis,Passeriformes,Thraupidae (Tanagers and Allies)
+Thick-billed Vireo,Vireo crassirostris,Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)"
+Tricolored Munia,Lonchura malacca,Passeriformes,Estrildidae (Waxbills and Allies)
+Western Spindalis,Spindalis zena,Passeriformes,Spindalidae (Spindalises)
+Emu,Dromaius novaehollandiae,Casuariiformes,Casuariidae (Cassowaries and Emu)
+Common Ostrich,Struthio camelus,Struthioniformes,Struthionidae (Ostriches)
+Common Hill Myna,Gracula religiosa,Passeriformes,Sturnidae (Starlings)
+Coscoroba Swan,Coscoroba coscoroba,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Bahama Woodstar,Calliphlox evelynae,Caprimulgiformes,Trochilidae (Hummingbirds)
+Crimson-collared Grosbeak,Rhodothraupis celaeno,Passeriformes,Cardinalidae (Cardinals and Allies)
+Red-billed Pigeon,Patagioenas flavirostris,Columbiformes,Columbidae (Pigeons and Doves)
+Hooded Crane,Grus monacha,Gruiformes,Gruidae (Cranes)
+White-winged Tern,Chlidonias leucopterus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Bahama Swallow,Tachycineta cyaneoviridis,Passeriformes,Hirundinidae (Swallows)
+Swallow-tailed Gull,Creagrus furcatus,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Aztec Thrush,Ridgwayia pinicola,Passeriformes,Turdidae (Thrushes and Allies)
+Bare-throated Tiger-Heron,Tigrisoma mexicanum,Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)"
+Black-vented Oriole,Icterus wagleri,Passeriformes,Icteridae (Troupials and Allies)
+Collared Plover,Charadrius collaris,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Ferruginous Pygmy-Owl,Glaucidium brasilianum,Strigiformes,Strigidae (Owls)
+Gray-crowned Yellowthroat,Geothlypis poliocephala,Passeriformes,Parulidae (New World Warblers)
+Green-breasted Mango,Anthracothorax prevostii,Caprimulgiformes,Trochilidae (Hummingbirds)
+Red-legged Honeycreeper,Cyanerpes cyaneus,Passeriformes,Thraupidae (Tanagers and Allies)
+Roadside Hawk,Rupornis magnirostris,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+White-throated Thrush,Turdus assimilis,Passeriformes,Turdidae (Thrushes and Allies)
+Green Sandpiper,Tringa ochropus,Charadriiformes,Scolopacidae (Sandpipers and Allies)
+Bananaquit,Coereba flaveola,Passeriformes,Thraupidae (Tanagers and Allies)
+Black-faced Grassquit,Tiaris bicolor,Passeriformes,Thraupidae (Tanagers and Allies)
+Common Pochard,Aythya ferina,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Crimson-fronted Parakeet,Psittacara finschi,Psittaciformes,Psittacidae (New World and African Parrots)
+Cuban Bullfinch,Melopyrrha nigra,Passeriformes,Thraupidae (Tanagers and Allies)
+Cuban Grassquit,Tiaris canorus,Passeriformes,Thraupidae (Tanagers and Allies)
+Cuban Pewee,Contopus caribaeus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Fischer's Lovebird,Agapornis fischeri,Psittaciformes,Psittaculidae (Old World Parrots)
+Great Black Hawk,Buteogallus urubitinga,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)"
+Hottentot Teal,Spatula hottentota,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Key West Quail-Dove,Geotrygon chrysia,Columbiformes,Columbidae (Pigeons and Doves)
+Lavender Waxbill,Estrilda caerulescens,Passeriformes,Estrildidae (Waxbills and Allies)
+Lesser Whistling-Duck,Dendrocygna javanica,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Loggerhead Kingbird,Tyrannus caudifasciatus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Mealy Parrot,Amazona farinosa,Psittaciformes,Psittacidae (New World and African Parrots)
+Orange-winged Parrot,Amazona amazonica,Psittaciformes,Psittacidae (New World and African Parrots)
+Plumed Whistling-Duck,Dendrocygna eytoni,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Red-billed Firefinch,Lagonosticta senegala,Passeriformes,Estrildidae (Waxbills and Allies)
+Red-breasted Parakeet,Psittacula alexandri,Psittaciformes,Psittaculidae (Old World Parrots)
+Red-cheeked Cordonbleu,Uraeginthus bengalus,Passeriformes,Estrildidae (Waxbills and Allies)
+Red-whiskered Bulbul,Pycnonotus jocosus,Passeriformes,Pycnonotidae (Bulbuls)
+Rosy-billed Pochard,Netta peposaca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Ruddy Quail-Dove,Geotrygon montana,Columbiformes,Columbidae (Pigeons and Doves)
+Scaly-headed Parrot,Pionus maximiliani,Psittaciformes,Psittacidae (New World and African Parrots)
+Scarlet-fronted Parakeet,Psittacara wagleri,Psittaciformes,Psittacidae (New World and African Parrots)
+Spot-breasted Oriole,Icterus pectoralis,Passeriformes,Icteridae (Troupials and Allies)
+Tropical Mockingbird,Mimus gilvus,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+Turquoise-fronted Parrot,Amazona aestiva,Psittaciformes,Psittacidae (New World and African Parrots)
+Variegated Flycatcher,Empidonomus varius,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Village Weaver,Ploceus cucullatus,Passeriformes,Ploceidae (Weavers and Allies)
+White-eyed Parakeet,Psittacara leucophthalmus,Psittaciformes,Psittacidae (New World and African Parrots)
+White-tailed Tropicbird,Phaethon lepturus,Phaethontiformes,Phaethontidae (Tropicbirds)
+Yellow-collared Lovebird,Agapornis personatus,Psittaciformes,Psittaculidae (Old World Parrots)
+Yellow-fronted Parrot,Poicephalus flavifrons,Psittaciformes,Psittacidae (New World and African Parrots)
+Yellow-naped Parrot,Amazona auropalliata,Psittaciformes,Psittacidae (New World and African Parrots)
+Zenaida Dove,Zenaida aurita,Columbiformes,Columbidae (Pigeons and Doves)
+Black-billed Cuckoo-Dove,Macropygia nigrirostris,Columbiformes,Columbidae (Pigeons and Doves)
+Red-browed Firetail,Neochmia temporalis,Passeriformes,Estrildidae (Waxbills and Allies)
+Baikal Teal,Sibirionetta formosa,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Fieldfare,Turdus pilaris,Passeriformes,Turdidae (Thrushes and Allies)
+Ferruginous Duck,Aythya nyroca,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Red-legged Kittiwake,Rissa brevirostris,Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)"
+Yellow Grosbeak,Pheucticus chrysopeplus,Passeriformes,Cardinalidae (Cardinals and Allies)
+Lesser Sand-Plover,Charadrius mongolus,Charadriiformes,Charadriidae (Plovers and Lapwings)
+Little Bunting,Emberiza pusilla,Passeriformes,Emberizidae (Old World Buntings)
+Village Indigobird,Vidua chalybeata,Passeriformes,Viduidae (Indigobirds)
+European Turtle-Dove,Streptopelia turtur,Columbiformes,Columbidae (Pigeons and Doves)
+Bar-headed Goose,Anser indicus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Smew,Mergellus albellus,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-backed Oriole,Icterus abeillei,Passeriformes,Icteridae (Troupials and Allies)
+Flame-colored Tanager,Piranga bidentata,Passeriformes,Cardinalidae (Cardinals and Allies)
+Yellow-faced Grassquit,Tiaris olivaceus,Passeriformes,Thraupidae (Tanagers and Allies)
+Chilean Flamingo,Phoenicopterus chilensis,Phoenicopteriformes,Phoenicopteridae (Flamingos)
+Elegant Trogon,Trogon elegans,Trogoniformes,Trogonidae (Trogons)
+Magpie Goose,Anseranas semipalmata,Anseriformes,Anseranatidae (Magpie Goose)
+Papuan Boobook,Ninox theomacha,Strigiformes,Strigidae (Owls)
+Black-throated Magpie-Jay,Calocitta colliei,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Broad-tailed Paradise-Whydah,Vidua obtusa,Passeriformes,Viduidae (Indigobirds)
+Burrowing Parakeet,Cyanoliseus patagonus,Psittaciformes,Psittacidae (New World and African Parrots)
+Cinnamon-rumped Seedeater,Sporophila torqueola,Passeriformes,Thraupidae (Tanagers and Allies)
+Dusky Warbler,Phylloscopus fuscatus,Passeriformes,Phylloscopidae (Leaf Warblers)
+Gouldian Finch,Erythrura gouldiae,Passeriformes,Estrildidae (Waxbills and Allies)
+Green-winged Pytilia,Pytilia melba,Passeriformes,Estrildidae (Waxbills and Allies)
+Japanese White-eye,Zosterops japonicus,Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)"
+Orange-fronted Parakeet,Eupsittula canicularis,Psittaciformes,Psittacidae (New World and African Parrots)
+Venezuelan Troupial,Icterus icterus,Passeriformes,Icteridae (Troupials and Allies)
+White-throated Magpie-Jay,Calocitta formosa,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Blue-black Grassquit,Volatinia jacarina,Passeriformes,Thraupidae (Tanagers and Allies)
+Yellow-billed Cardinal,Paroaria capitata,Passeriformes,Thraupidae (Tanagers and Allies)
+Steller's Eider,Polysticta stelleri,Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)"
+Black-and-white Mannikin,Spermestes bicolor,Passeriformes,Estrildidae (Waxbills and Allies)
+Long-tailed Mockingbird,Mimus longicaudatus,Passeriformes,Mimidae (Mockingbirds and Thrashers)
+European Greenfinch,Chloris chloris,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Arizona Woodpecker,Dryobates arizonae,Piciformes,Picidae (Woodpeckers)
+Berylline Hummingbird,Amazilia beryllina,Caprimulgiformes,Trochilidae (Hummingbirds)
+Buff-breasted Flycatcher,Empidonax fulvifrons,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Plain-capped Starthroat,Heliomaster constantii,Caprimulgiformes,Trochilidae (Hummingbirds)
+Sinaloa Wren,Thryophilus sinaloa,Passeriformes,Troglodytidae (Wrens)
+Tufted Flycatcher,Mitrephanes phaeocercus,Passeriformes,Tyrannidae (Tyrant Flycatchers)
+Whiskered Screech-Owl,Megascops trichopsis,Strigiformes,Strigidae (Owls)
+White-rumped Shama,Copsychus malabaricus,Passeriformes,Muscicapidae (Old World Flycatchers)
+Cut-throat,Amadina fasciata,Passeriformes,Estrildidae (Waxbills and Allies)
+European Robin,Erithacus rubecula,Passeriformes,Muscicapidae (Old World Flycatchers)
+White-necked Raven,Corvus albicollis,Passeriformes,"Corvidae (Crows, Jays, and Magpies)"
+Streak-backed Oriole,Icterus pustulatus,Passeriformes,Icteridae (Troupials and Allies)
+Cassia Crossbill,Loxia sinesciuris,Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)"
+Congo Peacock,Afropavo congensis,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Brown-chested Martin,Progne tapera,Passeriformes,Hirundinidae (Swallows)
+Lady Amherst's Pheasant,Chrysolophus amherstiae,Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)"
+Common Cuckoo,Cuculus canorus,Cuculiformes,Cuculidae (Cuckoos)
+Lemon Dove,Columba larvata,Columbiformes,Columbidae (Pigeons and Doves)
+Arctic Loon,Gavia arctica,Gaviiformes,Gaviidae (Loons)
