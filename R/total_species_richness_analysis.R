@@ -65,7 +65,7 @@ random_polys_area <- random_polys %>%
   mutate(Analysis="Random")
 
 ## make plot of city area and species richness
-ggplot(df2, aes(x=(ALAND10/1000), y=total_richness))+
+ggplot(df2, aes(x=(ALAND10/1e6), y=total_richness))+
   geom_point(size=0.7)+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -126,7 +126,7 @@ ggsave(filename="Figures/total_richness_vs_total_ebird_lists.png",
 
 # Also make a plot of
 # total eBird lists versus city area
-ggplot(df2, aes(x=(ALAND10/1000), y=total_lists))+
+ggplot(df2, aes(x=(ALAND10/1e6), y=total_lists))+
   geom_point(size=0.7)+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -180,14 +180,14 @@ median(df2$total_lists)
 #lm_mod.log <- lm(log(total_richness)~log((ALAND10/1000)), offset=(log(df2$total_lists)), data=df2)
 #summary(lm_mod.log)
 
-gam_mod <- mgcv::gam(total_richness~log(ALAND10/1000)+s(lat, lng, bs="sos",m=2,k=100), 
+gam_mod <- mgcv::gam(total_richness~log(ALAND10/1e6)+s(lat, lng, bs="sos",m=2,k=100), 
                      weights=log(total_lists), family=poisson(), method="GCV.Cp", data=df2)
 summary(gam_mod)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
 # rerun the model without a smoother which will extract residuals from
 # which will then be used as the residual spcies richness in later analyses
-gam_mod.2 <- mgcv::gam(total_richness~log(ALAND10/1000), weights=log(total_lists), family=poisson(), data=df2)
+gam_mod.2 <- mgcv::gam(total_richness~log(ALAND10/1e6), weights=log(total_lists), family=poisson(), data=df2)
 summary(gam_mod.2)
 plot.gam(gam_mod.2, all.terms=TRUE, page=1)
 
@@ -211,7 +211,7 @@ ggsave(filename="Figures/adjusted_species_richness_from_gam_vs_city_size.png",
 dat <- random_polys_area %>%
   dplyr::filter(total_lists >= sample_size)
 
-gam_mod <- mgcv::gam(total_richness~log(area.m/1000)+s(lat, lng, bs="sos",m=2,k=100), 
+gam_mod <- mgcv::gam(total_richness~log(area.m/1e6)+s(lat, lng, bs="sos",m=2,k=100), 
                      weights=log(total_lists), family=poisson(),  method="GCV.Cp", data=random_polys_area)
 summary(gam_mod)
 
@@ -238,7 +238,7 @@ df3 <- df2 %>%
 
 city_vs_random_comparison <- bind_rows(df3, random_polys_area)
 
-ggplot(city_vs_random_comparison, aes(x=area.m/1000, y=total_richness, color=Analysis))+
+ggplot(city_vs_random_comparison, aes(x=area.m/1e6, y=total_richness, color=Analysis))+
   geom_point(size=0.7)+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -257,12 +257,12 @@ ggsave(filename="Figures/city_and_random_poly_total_richness.png",
        width=5, height=3.7, units="in")
 
 
-gam_mod <- mgcv::gam(total_richness~log(area.m/1000)*Analysis+s(lat, lng, bs="sos",m=2,k=100), 
+gam_mod <- mgcv::gam(total_richness~log(area.m/1e6)*Analysis+s(lat, lng, bs="sos",m=2,k=100), 
                      weights=log(total_lists), method="GCV.Cp", family=poisson(), city_vs_random_comparison)
 summary(gam_mod)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
-gam_mod_no_interaction <- mgcv::gam(total_richness~log(area.m/1000)+Analysis+s(lat, lng, bs="sos",m=2,k=100), 
+gam_mod_no_interaction <- mgcv::gam(total_richness~log(area.m/1e6)+Analysis+s(lat, lng, bs="sos",m=2,k=100), 
                                     weights=log(total_lists), family=poisson(), city_vs_random_comparison)
 summary(gam_mod_no_interaction)
 plot.gam(gam_mod_no_interaction, all.terms=TRUE, page=1)
@@ -423,7 +423,7 @@ ggsave(filename="Figures/coords_of_cities_and_random_polys.png",
        width=5, height=3.7, units="in")
 
 # make a plot of area
-ggplot(random_polys_area, aes(x=area.m/1000, y=total_richness))+
+ggplot(random_polys_area, aes(x=area.m/1e6, y=total_richness))+
   geom_point(size=0.7)+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -439,10 +439,10 @@ ggplot(random_polys_area, aes(x=area.m/1000, y=total_richness))+
 ggsave(filename="Figures/total_richness_vs_random_poly_area.png", 
        width=5, height=3.7, units="in")
 
-lm_mod_random <- lm(total_richness~log((area.m/1000)), weights=(random_polys_area$total_lists), data=random_polys_area)
+lm_mod_random <- lm(total_richness~log((area.m/1e6)), weights=(random_polys_area$total_lists), data=random_polys_area)
 summary(lm_mod_random)
 
-lm_mod_random.log <- lm(log(total_richness)~log((area.m/1000)), weights=(random_polys_area$total_lists), data=random_polys_area)
+lm_mod_random.log <- lm(log(total_richness)~log((area.m/1e6)), weights=(random_polys_area$total_lists), data=random_polys_area)
 summary(lm_mod_random.log)
 
 

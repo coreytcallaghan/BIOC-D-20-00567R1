@@ -77,7 +77,7 @@ summer_cities <- df2 %>%
 
 N <- nrow(summer_cities)
 
-gam_mod <- mgcv::gam(Summer_richness~log(ALAND10/1000)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Summer_lists), family=poisson(), data=summer_cities)
+gam_mod <- mgcv::gam(Summer_richness~log(ALAND10/1e6)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Summer_lists), family=poisson(), data=summer_cities)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
 summary(gam_mod)
@@ -97,7 +97,7 @@ spring_cities <- df2 %>%
 
 N <- nrow(spring_cities)
 
-gam_mod <- mgcv::gam(Spring_richness~log(ALAND10/1000)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Spring_lists), family=poisson(), data=spring_cities)
+gam_mod <- mgcv::gam(Spring_richness~log(ALAND10/1e6)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Spring_lists), family=poisson(), data=spring_cities)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
 summary(gam_mod)
@@ -119,7 +119,7 @@ autumn_cities <- df2 %>%
 
 N <- nrow(autumn_cities)
 
-gam_mod <- mgcv::gam(Autumn_richness~log(ALAND10/1000)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Autumn_lists), family=poisson(), data=autumn_cities)
+gam_mod <- mgcv::gam(Autumn_richness~log(ALAND10/1e6)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Autumn_lists), family=poisson(), data=autumn_cities)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
 summary(gam_mod)
@@ -141,7 +141,7 @@ winter_cities <- df2 %>%
 
 N <- nrow(winter_cities)
 
-gam_mod <- mgcv::gam(Winter_richness~log(ALAND10/1000)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Winter_lists), family=poisson(), data=winter_cities)
+gam_mod <- mgcv::gam(Winter_richness~log(ALAND10/1e6)+s(lat, lng, bs="sos",m=2,k=100), weights=log(Winter_lists), family=poisson(), data=winter_cities)
 plot.gam(gam_mod, all.terms=TRUE, page=1)
 
 summary(gam_mod)
@@ -182,7 +182,7 @@ combined_dat_cities <- bind_rows(temp_summer, temp_winter,
   mutate(Analysis="Cities") %>%
   rename(area.m=ALAND10)
 
-ggplot(combined_dat_cities, aes(x=area.m/1000, y=richness))+
+ggplot(combined_dat_cities, aes(x=area.m/1e6, y=richness))+
   geom_point()+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -242,7 +242,7 @@ combined_dat_both <- bind_rows(combined_dat_cities,
                                combined_dat_random)  
 
   
-ggplot(combined_dat_both, aes(x=area.m/1000, y=richness, color=Analysis))+
+ggplot(combined_dat_both, aes(x=area.m/1e6, y=richness, color=Analysis))+
   geom_point(size=0.3)+
   geom_smooth(method="lm", se=FALSE)+
   theme_classic()+
@@ -279,7 +279,7 @@ summer_both_results <- as.data.frame(summary(gam_mod)$p.table) %>%
 autumn_model <- combined_dat_both %>%
   dplyr::filter(Season == "Autumn")
 
-gam_mod <- mgcv::gam(richness~log(area.m/1000)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=autumn_model)
+gam_mod <- mgcv::gam(richness~log(area.m/1e6)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=autumn_model)
 
 summary(gam_mod)
 
@@ -295,7 +295,7 @@ autumn_both_results <- as.data.frame(summary(gam_mod)$p.table) %>%
 winter_model <- combined_dat_both %>%
   dplyr::filter(Season == "Winter")
 
-gam_mod <- mgcv::gam(richness~log(area.m/1000)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=winter_model)
+gam_mod <- mgcv::gam(richness~log(area.m/1e6)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=winter_model)
 
 summary(gam_mod)
 
@@ -311,7 +311,7 @@ winter_both_results <- as.data.frame(summary(gam_mod)$p.table) %>%
 spring_model <- combined_dat_both %>%
   dplyr::filter(Season == "Spring")
 
-gam_mod <- mgcv::gam(richness~log(area.m/1000)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=spring_model)
+gam_mod <- mgcv::gam(richness~log(area.m/1e6)*Analysis+s(lat, lng, bs="sos",m=2,k=100), weights=log(list), family=poisson(), data=spring_model)
 
 summary(gam_mod)
 
